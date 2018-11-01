@@ -1,4 +1,4 @@
-import firebase from "firebase";
+import firebase from 'firebase';
 // import data from 'variables/result.json';
 
 const config = {
