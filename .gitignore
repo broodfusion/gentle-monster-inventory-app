@@ -7,13 +7,13 @@
 # testing
 /coverage
 
-/build
+# build/
 
 # uncomment this when deploying for prod
-# src/*
-# public/*
-# build/static/css/*.map
-# build/static/js/*.map
+src/*
+public/*
+build/static/css/*.map
+build/static/js/*.map
 
 # misc
 .DS_Store
