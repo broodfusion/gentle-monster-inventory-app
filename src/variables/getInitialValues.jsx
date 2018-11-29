@@ -1,12 +1,11 @@
 export const getProductInitialValues = obj => {
   return {
-    BarcodeNo: obj.BarcodeNo || "",
-    ItemName: obj.ItemName || "",
-    Status: obj.Status || "",
-    Category: obj.Category || "",
-    Year: obj.Year || "",
-    QTY: obj.QTY || "",
-    WMSItemName: obj.WMSItemName || "",
-    ImageUrl: obj.ImageUrl || ""
+    BarcodeNo: obj.BarcodeNo || '',
+    ItemName: obj.ItemName || '',
+    Comments: obj.Comments || '',
+    Type: obj.Type || '',
+    Year: obj.Year || '',
+    RetailPrice: obj.RetailPrice || '',
+    ImageUrl: obj.ImageUrl || ''
   };
 };

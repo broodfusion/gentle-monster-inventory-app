@@ -1,41 +1,38 @@
 export default [
+  /* eslint-disable */
   {
-    Header: "Product",
-    accessor: "image",
+    Header: 'Product',
+    accessor: 'image',
     filterable: false,
     sortable: false
   },
   {
-    Header: "Barcode #",
-    accessor: "BarcodeNo"
+    Header: 'Barcode #',
+    accessor: 'BarcodeNo'
   },
   {
-    Header: "Item Name",
-    accessor: "ItemName"
+    Header: 'Item Name',
+    accessor: 'ItemName'
   },
   {
-    Header: "Status",
-    accessor: "Status"
+    Header: 'Comments',
+    accessor: 'Comments'
   },
   {
-    Header: "Category",
-    accessor: "Category"
+    Header: 'Year',
+    accessor: 'Year'
   },
   {
-    Header: "Year",
-    accessor: "Year"
+    Header: 'Type',
+    accessor: 'Type'
   },
   {
-    Header: "Quantity",
-    accessor: "QTY"
+    Header: 'Retail Price',
+    accessor: 'RetailPrice'
   },
   {
-    Header: "WMS Item Name",
-    accessor: "WMSItemName"
-  },
-  {
-    Header: "Actions",
-    accessor: "actions",
+    Header: 'Actions',
+    accessor: 'actions',
     sortable: false,
     filterable: false
   }

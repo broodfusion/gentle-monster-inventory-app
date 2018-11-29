@@ -1,5 +1,5 @@
 import firebase from 'firebase';
-// import data from 'variables/result.json';
+// import data from 'variables/result';
 
 const config = {
   apiKey: process.env.REACT_APP_FIREBASE_API_KEY,
@@ -18,6 +18,7 @@ export { firebase, emailAuthProvider, db as default };
 
 // import data to Firebase DB
 
+// db.ref().remove();
 // data.forEach(item => {
 //   db.ref('/products').push(item);
 // });
