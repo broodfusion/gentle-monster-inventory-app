@@ -7,6 +7,7 @@
 # testing
 /coverage
 
+# comment this when deploying for prod
 build/
 
 # uncomment this when deploying for prod
