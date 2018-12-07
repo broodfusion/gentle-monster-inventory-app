@@ -16,9 +16,10 @@ const emailAuthProvider = new firebase.auth.EmailAuthProvider();
 
 export { firebase, emailAuthProvider, db as default };
 
-// import data to Firebase DB
-
+// removing all data from firebase
 // db.ref().remove();
+
+// import data to Firebase DB
 // data.forEach(item => {
 //   db.ref('/products').push(item);
 // });

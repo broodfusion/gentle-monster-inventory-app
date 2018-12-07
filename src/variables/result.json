@@ -1,57 +1,21 @@
 [
   {
-    "BarcodeNo": "8809473460005",
-    "ItemName": "DEARCLASSIC-03",
-    "Comments": "Active",
-    "Year": "2016",
-    "Type": "Opticals",
-    "RetailPrice": "200.00",
-    "ImageUrl": "https://i.postimg.cc/j2JCQhjM/DEARCLASSIC-03-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809473460012",
-    "ItemName": "DEARCLASSIC-02",
-    "Comments": "Active",
-    "Year": "2016",
-    "Type": "Opticals",
-    "RetailPrice": "200.00",
-    "ImageUrl": "https://i.postimg.cc/Dwhd0SC9/DEARCLASSIC-02-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809473460029",
-    "ItemName": "DEARCLASSIC-D01",
-    "Comments": "Active",
-    "Year": "2016",
-    "Type": "Opticals",
-    "RetailPrice": "200.00",
-    "ImageUrl": "https://i.postimg.cc/SxGLMm3J/DEARCLASSIC-D01-1.jpg"
-  },
-  {
     "BarcodeNo": "8809473460104",
     "ItemName": "LIBERTY-03",
     "Comments": "Active",
     "Year": "2016",
     "Type": "Opticals",
-    "RetailPrice": "230.00",
+    "RetailPrice": "230",
     "ImageUrl": "https://i.postimg.cc/Bn19SwVY/LIBERTY-03-1.jpg"
   },
   {
-    "BarcodeNo": "8809473460111",
-    "ItemName": "LIBERTY-02",
-    "Comments": "Active",
+    "BarcodeNo": "8809473460135",
+    "ItemName": "POTEE-01",
+    "Comments": "Discontinued",
     "Year": "2016",
     "Type": "Opticals",
-    "RetailPrice": "230.00",
-    "ImageUrl": "https://i.postimg.cc/PJ3sJGHc/LIBERTY-02-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809473460128",
-    "ItemName": "LIBERTY-D01",
-    "Comments": "Active",
-    "Year": "2016",
-    "Type": "Opticals",
-    "RetailPrice": "230.00",
-    "ImageUrl": "https://i.postimg.cc/PqsGPQGt/LIBERTY-D01-1.jpg"
+    "RetailPrice": "249",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
   },
   {
     "BarcodeNo": "8809473460425",
@@ -59,35 +23,8 @@
     "Comments": "Active (Limited)",
     "Year": "2016",
     "Type": "Opticals",
-    "RetailPrice": "190.00",
+    "RetailPrice": "190",
     "ImageUrl": "https://i.postimg.cc/s2QXRcYs/INSIGHT-01-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809473460432",
-    "ItemName": "INSIGHT-B4",
-    "Comments": "Active (Limited)",
-    "Year": "2016",
-    "Type": "Opticals",
-    "RetailPrice": "190.00",
-    "ImageUrl": "https://i.postimg.cc/t4mTffVB/INSIGHT-B4-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809473460456",
-    "ItemName": "INSIGHT-C1",
-    "Comments": "Active (Limited)",
-    "Year": "2016",
-    "Type": "Opticals",
-    "RetailPrice": "190.00",
-    "ImageUrl": "https://i.postimg.cc/0NTN5wnm/INSIGHT-C1-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809473460463",
-    "ItemName": "CLASSICO-01",
-    "Comments": "Active (Limited)",
-    "Year": "2016",
-    "Type": "Opticals",
-    "RetailPrice": "210.00",
-    "ImageUrl": "https://i.postimg.cc/pdx8W3dR/CLASSICO-01-1.jpg"
   },
   {
     "BarcodeNo": "8809473460470",
@@ -95,71 +32,62 @@
     "Comments": "Active (Limited)",
     "Year": "2016",
     "Type": "Opticals",
-    "RetailPrice": "210.00",
+    "RetailPrice": "210",
     "ImageUrl": "https://i.postimg.cc/wBVN7FtJ/CLASSICO-B4-1.jpg"
   },
   {
-    "BarcodeNo": "8809473460524",
-    "ItemName": "BLUEMOON-01",
-    "Comments": "Active",
+    "BarcodeNo": "8809473460708",
+    "ItemName": "BOWIE-01",
+    "Comments": "Not Allowed Sales",
     "Year": "2016",
     "Type": "Opticals",
-    "RetailPrice": "200.00",
-    "ImageUrl": "https://i.postimg.cc/fbxK5xVT/BLUEMOON-01-1.jpg"
+    "RetailPrice": "190",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
   },
   {
-    "BarcodeNo": "8809473460531",
-    "ItemName": "BLUEMOON-B4",
-    "Comments": "Active",
+    "BarcodeNo": "8809473460715",
+    "ItemName": "BOWIE-B4",
+    "Comments": "Not Allowed Sales",
     "Year": "2016",
     "Type": "Opticals",
-    "RetailPrice": "200.00",
-    "ImageUrl": "https://i.postimg.cc/bJpR5sn0/BLUEMOON-B4-1.jpg"
+    "RetailPrice": "190",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
   },
   {
-    "BarcodeNo": "8809473460555",
-    "ItemName": "BLUEMOONM-01",
-    "Comments": "Active (Limited)",
+    "BarcodeNo": "8809473460753",
+    "ItemName": "GRANDBLUE-MB1",
+    "Comments": "Discontinued",
     "Year": "2016",
     "Type": "Opticals",
-    "RetailPrice": "200.00",
-    "ImageUrl": "https://i.postimg.cc/2yXF3GKT/BLUEMOONM-01-1.jpg"
+    "RetailPrice": "230",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
   },
   {
-    "BarcodeNo": "8809473460562",
-    "ItemName": "BLUEMOONM-B4",
-    "Comments": "Active (Limited)",
+    "BarcodeNo": "8809473460760",
+    "ItemName": "DAYDREAM-01",
+    "Comments": "Discontinued",
     "Year": "2016",
     "Type": "Opticals",
-    "RetailPrice": "200.00",
-    "ImageUrl": "https://i.postimg.cc/x8d30htc/BLUEMOONM-B4-1.jpg"
+    "RetailPrice": "210",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
   },
   {
-    "BarcodeNo": "8809473460678",
-    "ItemName": "RIGO-01",
-    "Comments": "Active (Limited)",
+    "BarcodeNo": "8809473460784",
+    "ItemName": "DAYDREAM-N1",
+    "Comments": "Discontinued",
     "Year": "2016",
     "Type": "Opticals",
-    "RetailPrice": "230.00",
-    "ImageUrl": "https://i.postimg.cc/LsLJ1Dnv/RIGO-01-1.jpg"
+    "RetailPrice": "210",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
   },
   {
-    "BarcodeNo": "8809473460685",
-    "ItemName": "RIGO-D01",
-    "Comments": "Active (Limited)",
+    "BarcodeNo": "8809473460869",
+    "ItemName": "MEMPHIS-B4",
+    "Comments": "Discontinued",
     "Year": "2016",
     "Type": "Opticals",
-    "RetailPrice": "230.00",
-    "ImageUrl": "https://i.postimg.cc/HxtjSL0y/RIGO-D01-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809473460852",
-    "ItemName": "MEMPHIS-01",
-    "Comments": "Active (Limited)",
-    "Year": "2016",
-    "Type": "Opticals",
-    "RetailPrice": "210.00",
-    "ImageUrl": "https://i.postimg.cc/HnJ3wF5F/MEMPHIS-01-1.jpg"
+    "RetailPrice": "210",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
   },
   {
     "BarcodeNo": "8809473461019",
@@ -167,44 +95,8 @@
     "Comments": "Active",
     "Year": "2016",
     "Type": "Opticals",
-    "RetailPrice": "190.00",
+    "RetailPrice": "190",
     "ImageUrl": "https://i.postimg.cc/BbL9jYvn/SOUTHSIDE-01-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809473461033",
-    "ItemName": "SOUTHSIDE-B4",
-    "Comments": "Active",
-    "Year": "2016",
-    "Type": "Opticals",
-    "RetailPrice": "190.00",
-    "ImageUrl": "https://i.postimg.cc/hvkFTLJb/SOUTHSIDE-B4-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809473461149",
-    "ItemName": "SAMO-01",
-    "Comments": "Active (Limited)",
-    "Year": "2016",
-    "Type": "Opticals",
-    "RetailPrice": "210.00",
-    "ImageUrl": "https://i.postimg.cc/DzkZnGBG/SAMO-01-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809473461156",
-    "ItemName": "SAMO-D01",
-    "Comments": "Active (Limited)",
-    "Year": "2016",
-    "Type": "Opticals",
-    "RetailPrice": "210.00",
-    "ImageUrl": "https://i.postimg.cc/25Q565KK/SAMO-D01-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809473461163",
-    "ItemName": "SAMO-G1",
-    "Comments": "Active (Limited)",
-    "Year": "2016",
-    "Type": "Opticals",
-    "RetailPrice": "210.00",
-    "ImageUrl": "https://i.postimg.cc/NMbf6zY8/SAMO-G1-1.jpg"
   },
   {
     "BarcodeNo": "8809473461170",
@@ -212,7 +104,7 @@
     "Comments": "Active",
     "Year": "2016",
     "Type": "Opticals",
-    "RetailPrice": "190.00",
+    "RetailPrice": "190",
     "ImageUrl": "https://i.postimg.cc/FF2wPxR0/MILAN-01-1.jpg"
   },
   {
@@ -221,8 +113,26 @@
     "Comments": "Active",
     "Year": "2016",
     "Type": "Opticals",
-    "RetailPrice": "190.00",
+    "RetailPrice": "190",
     "ImageUrl": "https://i.postimg.cc/Qx1wvW9w/MILAN-B4-1.jpg"
+  },
+  {
+    "BarcodeNo": "8809473461521",
+    "ItemName": "13PROUD-03",
+    "Comments": "Discontinued",
+    "Year": "2016",
+    "Type": "Opticals",
+    "RetailPrice": "210",
+    "ImageUrl": "https://i.postimg.cc/RC7KJMjK/13-PROUD-03.jpg"
+  },
+  {
+    "BarcodeNo": "8809473461538",
+    "ItemName": "13PROUD-04",
+    "Comments": "Discontinued",
+    "Year": "2016",
+    "Type": "Opticals",
+    "RetailPrice": "210",
+    "ImageUrl": "https://i.postimg.cc/wT9JhCpP/13-PROUD-04.jpg"
   },
   {
     "BarcodeNo": "8809473461606",
@@ -230,7 +140,7 @@
     "Comments": "Active",
     "Year": "2016",
     "Type": "Opticals",
-    "RetailPrice": "190.00",
+    "RetailPrice": "190",
     "ImageUrl": "https://i.postimg.cc/P5tH4M32/UNAC-01-1.jpg"
   },
   {
@@ -239,8 +149,35 @@
     "Comments": "Active",
     "Year": "2016",
     "Type": "Opticals",
-    "RetailPrice": "190.00",
+    "RetailPrice": "190",
     "ImageUrl": "https://i.postimg.cc/HkBgP7FH/UNAC-B4-1.jpg"
+  },
+  {
+    "BarcodeNo": "8809473461675",
+    "ItemName": "14PROUD-01",
+    "Comments": "Discontinued",
+    "Year": "2016",
+    "Type": "Opticals",
+    "RetailPrice": "210",
+    "ImageUrl": "https://i.postimg.cc/4yQ9D5zB/14-PROUD-01.jpg"
+  },
+  {
+    "BarcodeNo": "8809473461682",
+    "ItemName": "14PROUD-B1",
+    "Comments": "Discontinued",
+    "Year": "2016",
+    "Type": "Opticals",
+    "RetailPrice": "210",
+    "ImageUrl": "https://i.postimg.cc/pTN5y7Cs/14-PROUD-B1.jpg"
+  },
+  {
+    "BarcodeNo": "8809473461699",
+    "ItemName": "14PROUD-B4",
+    "Comments": "Discontinued",
+    "Year": "2016",
+    "Type": "Opticals",
+    "RetailPrice": "210",
+    "ImageUrl": "https://i.postimg.cc/wBRsqHXt/14-PROUD-B4.jpg"
   },
   {
     "BarcodeNo": "8809473461743",
@@ -248,7 +185,7 @@
     "Comments": "Active (Limited)",
     "Year": "2016",
     "Type": "Clip",
-    "RetailPrice": "60.00",
+    "RetailPrice": "60",
     "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
   },
   {
@@ -257,7 +194,7 @@
     "Comments": "Active (Limited)",
     "Year": "2016",
     "Type": "Clip",
-    "RetailPrice": "60.00",
+    "RetailPrice": "60",
     "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
   },
   {
@@ -266,25 +203,160 @@
     "Comments": "Active (Limited)",
     "Year": "2015",
     "Type": "Sunglasses",
-    "RetailPrice": "230.00",
+    "RetailPrice": "230",
     "ImageUrl": "https://i.postimg.cc/Ss6vXB6d/ABSENTE-01-2-M-GD-1.jpg"
   },
   {
-    "BarcodeNo": "8809473461774",
-    "ItemName": "ABSENTE-01GD",
-    "Comments": "Active (Limited)",
+    "BarcodeNo": "8809473461804",
+    "ItemName": "ABSENTE-C1(6M)GD",
+    "Comments": "Discontinued",
     "Year": "2016",
     "Type": "Sunglasses",
-    "RetailPrice": "230.00",
-    "ImageUrl": "https://i.postimg.cc/yx7r0LnH/ABSENTE-01-GD-1.jpg"
+    "RetailPrice": "230",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
   },
   {
-    "BarcodeNo": "8809473462504",
-    "ItemName": "BIGBULLY-01(1M)",
-    "Comments": "Active (Limited)-STORE Only",
+    "BarcodeNo": "8809473461811",
+    "ItemName": "ABSENTE-PD1(8M)GD",
+    "Comments": "Discontinued",
     "Year": "2016",
     "Type": "Sunglasses",
-    "RetailPrice": "280.00",
+    "RetailPrice": "230",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473461828",
+    "ItemName": "ABSENTE-PD1GD",
+    "Comments": "Discontinued",
+    "Year": "2016",
+    "Type": "Sunglasses",
+    "RetailPrice": "230",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473461835",
+    "ItemName": "ABSENTE-PD4(2M)GD",
+    "Comments": "Discontinued",
+    "Year": "2016",
+    "Type": "Sunglasses",
+    "RetailPrice": "230",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473461866",
+    "ItemName": "DIDID-01(1M)",
+    "Comments": "Discontinued",
+    "Year": "2016",
+    "Type": "Sunglasses",
+    "RetailPrice": "215",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473461880",
+    "ItemName": "DIDID-BRD1(4M)",
+    "Comments": "Discontinued",
+    "Year": "2016",
+    "Type": "Sunglasses",
+    "RetailPrice": "215",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473462030",
+    "ItemName": "MOONCUT-01",
+    "Comments": "Discontinued",
+    "Year": "2016",
+    "Type": "Sunglasses",
+    "RetailPrice": "249",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473462047",
+    "ItemName": "MOONCUT-01(2M)",
+    "Comments": "Discontinued",
+    "Year": "2016",
+    "Type": "Sunglasses",
+    "RetailPrice": "249",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473462078",
+    "ItemName": "MOONCUT-S3",
+    "Comments": "Discontinued",
+    "Year": "2016",
+    "Type": "Sunglasses",
+    "RetailPrice": "249",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473462085",
+    "ItemName": "MOONCUT-WD1(1M)",
+    "Comments": "Discontinued",
+    "Year": "2016",
+    "Type": "Sunglasses",
+    "RetailPrice": "249",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473462139",
+    "ItemName": "DEBORAH-01",
+    "Comments": "Discontinued",
+    "Year": "2016",
+    "Type": "Sunglasses",
+    "RetailPrice": "249",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473462146",
+    "ItemName": "DEBORAH-P3(4M)",
+    "Comments": "Discontinued",
+    "Year": "2016",
+    "Type": "Sunglasses",
+    "RetailPrice": "249",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473462153",
+    "ItemName": "DEBORAH-PD1",
+    "Comments": "Discontinued",
+    "Year": "2016",
+    "Type": "Sunglasses",
+    "RetailPrice": "249",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473462160",
+    "ItemName": "DEBORAH-WD1(1M)",
+    "Comments": "Discontinued",
+    "Year": "2016",
+    "Type": "Sunglasses",
+    "RetailPrice": "249",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473462177",
+    "ItemName": "DEBORAH-01(2M)",
+    "Comments": "Discontinued",
+    "Year": "2016",
+    "Type": "Sunglasses",
+    "RetailPrice": "249",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473462443",
+    "ItemName": "ALLEYCAT-01(M)",
+    "Comments": "Discontinued (No HQ List)",
+    "Year": "2015",
+    "Type": "Sunglasses",
+    "RetailPrice": "280",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473462474",
+    "ItemName": "ALLEYCAT-EPD2(M)",
+    "Comments": "Discontinued (No HQ List)",
+    "Year": "2015",
+    "Type": "Sunglasses",
+    "RetailPrice": "280",
     "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
   },
   {
@@ -293,35 +365,116 @@
     "Comments": "Active (Limited)-STORE Only",
     "Year": "2016",
     "Type": "Sunglasses",
-    "RetailPrice": "280.00",
+    "RetailPrice": "280",
     "ImageUrl": "https://i.postimg.cc/Vvqrb5CV/BIGBULLY-02-1-M-1.jpg"
   },
   {
-    "BarcodeNo": "8809473465185",
-    "ItemName": "SOUTHSIDE-01(RED)",
-    "Comments": "Active",
+    "BarcodeNo": "8809473462559",
+    "ItemName": "BIGBULLY.S-02(2M)",
+    "Comments": "Discontinued",
+    "Year": "2016",
+    "Type": "Sunglasses",
+    "RetailPrice": "280",
+    "ImageUrl": "https://i.postimg.cc/P5PCyhF6/bigbully-s-02-2-M.jpg"
+  },
+  {
+    "BarcodeNo": "8809473462801",
+    "ItemName": "CLEAVE-BD2(M)",
+    "Comments": "Discontinued (No HQ List)",
+    "Year": "2015",
+    "Type": "Sunglasses",
+    "RetailPrice": "280",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473464584",
+    "ItemName": "SECONDBOSS-01",
+    "Comments": "Discontinued",
+    "Year": "2016",
+    "Type": "Sunglasses",
+    "RetailPrice": "249",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473464607",
+    "ItemName": "SECONDBOSS-B4",
+    "Comments": "Discontinued",
+    "Year": "2016",
+    "Type": "Sunglasses",
+    "RetailPrice": "249",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473464638",
+    "ItemName": "SECONDBOSS-SD1(1M)",
+    "Comments": "Discontinued",
+    "Year": "2016",
+    "Type": "Sunglasses",
+    "RetailPrice": "249",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473464898",
+    "ItemName": "LOVESOMEONE-03GD",
+    "Comments": "Discontinued",
+    "Year": "2016",
+    "Type": "Sunglasses",
+    "RetailPrice": "230",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473464966",
+    "ItemName": "DIDIA-01GD",
+    "Comments": "Discontinued",
+    "Year": "2016",
+    "Type": "Sunglasses",
+    "RetailPrice": "215",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473465079",
+    "ItemName": "CUBA502-WB1GD",
+    "Comments": "Discontinued",
+    "Year": "2016",
+    "Type": "Sunglasses",
+    "RetailPrice": "230",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473465093",
+    "ItemName": "CUBA502-PBD1GD",
+    "Comments": "Discontinued",
+    "Year": "2016",
+    "Type": "Sunglasses",
+    "RetailPrice": "230",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473465147",
+    "ItemName": "ROY-RTD2",
+    "Comments": "Discontinued",
+    "Year": "2016",
+    "Type": "Sunglasses",
+    "RetailPrice": "215",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473465154",
+    "ItemName": "13PROUD-02G",
+    "Comments": "Discontinued",
     "Year": "2016",
     "Type": "Opticals",
-    "RetailPrice": "210.00",
-    "ImageUrl": "https://i.postimg.cc/RF0zBV5f/SOUTHSIDE-01-RED-1.jpg"
+    "RetailPrice": "210",
+    "ImageUrl": "https://i.postimg.cc/jS571yC4/13-PROUD-02-G.jpg"
   },
   {
-    "BarcodeNo": "8809473465215",
-    "ItemName": "MILAN-GD",
-    "Comments": "Active (Limited)",
+    "BarcodeNo": "8809473465178",
+    "ItemName": "BIGBULLY.S-01(1M)",
+    "Comments": "Discontinued",
     "Year": "2016",
-    "Type": "Clip",
-    "RetailPrice": "60.00",
-    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
-  },
-  {
-    "BarcodeNo": "8809473465222",
-    "ItemName": "MILAN-BK",
-    "Comments": "Active (Limited)",
-    "Year": "2016",
-    "Type": "Clip",
-    "RetailPrice": "60.00",
-    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+    "Type": "Sunglasses",
+    "RetailPrice": "280",
+    "ImageUrl": "https://i.postimg.cc/02t67rZM/bigbully-s-01-1-M.jpg"
   },
   {
     "BarcodeNo": "8809473465253",
@@ -329,8 +482,17 @@
     "Comments": "Active (Limited)",
     "Year": "2016",
     "Type": "Sunglasses",
-    "RetailPrice": "230.00",
+    "RetailPrice": "230",
     "ImageUrl": "https://i.postimg.cc/h40YKqPP/ABSENTE-S1-2-M-GD-1.jpg"
+  },
+  {
+    "BarcodeNo": "8809473465468",
+    "ItemName": "LOVESOMEONE-01(2M)GD",
+    "Comments": "Discontinued",
+    "Year": "2016",
+    "Type": "Sunglasses",
+    "RetailPrice": "230",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
   },
   {
     "BarcodeNo": "8809473465642",
@@ -338,7 +500,79 @@
     "Comments": "Active (Limited)",
     "Year": "2016",
     "Type": "Clip",
-    "RetailPrice": "60.00",
+    "RetailPrice": "60",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473465833",
+    "ItemName": "THEFANG-02",
+    "Comments": "Discontinued (No HQ List)",
+    "Year": "2015",
+    "Type": "Chris Habana",
+    "RetailPrice": "315",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473465857",
+    "ItemName": "THEHUNT-02",
+    "Comments": "Discontinued (No HQ List)",
+    "Year": "2015",
+    "Type": "Chris Habana",
+    "RetailPrice": "355",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473465864",
+    "ItemName": "THEHUNT-03",
+    "Comments": "Discontinued (No HQ List)",
+    "Year": "2015",
+    "Type": "Chris Habana",
+    "RetailPrice": "355",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473465932",
+    "ItemName": "LOVESOME-01(2M)GD",
+    "Comments": "Discontinued",
+    "Year": "2016",
+    "Type": "Sunglasses",
+    "RetailPrice": "230",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473465949",
+    "ItemName": "SECONDBOSS-01(2M)",
+    "Comments": "Discontinued",
+    "Year": "2016",
+    "Type": "Sunglasses",
+    "RetailPrice": "249",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473465994",
+    "ItemName": "CORE612-PD4",
+    "Comments": "Discontinued",
+    "Year": "2016",
+    "Type": "Sunglasses",
+    "RetailPrice": "249",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473466038",
+    "ItemName": "MADCRUSH-B4",
+    "Comments": "Discontinued",
+    "Year": "2016",
+    "Type": "Sunglasses",
+    "RetailPrice": "260",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473466045",
+    "ItemName": "MADCRUSH-MB1(1M)",
+    "Comments": "Discontinued",
+    "Year": "2016",
+    "Type": "Sunglasses",
+    "RetailPrice": "260",
     "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
   },
   {
@@ -347,35 +581,17 @@
     "Comments": "Active",
     "Year": "2016",
     "Type": "Opticals",
-    "RetailPrice": "190.00",
+    "RetailPrice": "190",
     "ImageUrl": "https://i.postimg.cc/vHhkQwht/WILDWILD2-01-1.jpg"
   },
   {
-    "BarcodeNo": "8809473466090",
-    "ItemName": "WILDWILD2-B4",
-    "Comments": "Active",
-    "Year": "2016",
-    "Type": "Opticals",
-    "RetailPrice": "190.00",
-    "ImageUrl": "https://i.postimg.cc/13zTX7Yh/WILDWILD2-B4-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809473466106",
-    "ItemName": "WILDWILD2-C1",
-    "Comments": "Active",
-    "Year": "2016",
-    "Type": "Opticals",
-    "RetailPrice": "190.00",
-    "ImageUrl": "https://i.postimg.cc/mg6nH30c/WILDWILD2-C1-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809473466311",
-    "ItemName": "LOVEPUNCH-M01",
-    "Comments": "Active (Limited)",
+    "BarcodeNo": "8809473466250",
+    "ItemName": "ILLUSION-BC1",
+    "Comments": "Discontinued",
     "Year": "2016",
     "Type": "Sunglasses",
-    "RetailPrice": "290.00",
-    "ImageUrl": "https://i.postimg.cc/L6nGDb29/LOVEPUNCH-M01-1.jpg"
+    "RetailPrice": "215",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
   },
   {
     "BarcodeNo": "8809473466328",
@@ -383,17 +599,26 @@
     "Comments": "Active (Limited)",
     "Year": "2016",
     "Type": "Sunglasses",
-    "RetailPrice": "290.00",
+    "RetailPrice": "290",
     "ImageUrl": "https://i.postimg.cc/8cC9qyvb/LOVEPUNCH-02-1-M-1.jpg"
   },
   {
-    "BarcodeNo": "8809473466359",
-    "ItemName": "SWITCHBACK-01",
-    "Comments": "Active (Limited)",
+    "BarcodeNo": "8809473466335",
+    "ItemName": "LOVEPUNCH-03(2M)",
+    "Comments": "Discontinued",
     "Year": "2016",
     "Type": "Sunglasses",
-    "RetailPrice": "260.00",
-    "ImageUrl": "https://i.postimg.cc/htqWG0RK/SWITCHBACK-01-1.jpg"
+    "RetailPrice": "290",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473466571",
+    "ItemName": "FAME-03(2M)",
+    "Comments": "Discontinued",
+    "Year": "2016",
+    "Type": "Sunglasses",
+    "RetailPrice": "270",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
   },
   {
     "BarcodeNo": "8809473466779",
@@ -401,7 +626,7 @@
     "Comments": "Active",
     "Year": "2016",
     "Type": "Sunglasses",
-    "RetailPrice": "320.00",
+    "RetailPrice": "320",
     "ImageUrl": "https://i.postimg.cc/NG70YLH9/JUMPINGJACK-02-Y-1.jpg"
   },
   {
@@ -410,16 +635,115 @@
     "Comments": "Active",
     "Year": "2016",
     "Type": "Sunglasses",
-    "RetailPrice": "320.00",
+    "RetailPrice": "320",
     "ImageUrl": "https://i.postimg.cc/J0q7QdLc/JUMPINGJACK-02-P-1.jpg"
   },
   {
-    "BarcodeNo": "8809473466809",
-    "ItemName": "JUMPINGJACK-M01(1M)",
-    "Comments": "Active (Limited)-STORE Only",
+    "BarcodeNo": "8809473466847",
+    "ItemName": "THINKER-M01",
+    "Comments": "Discontinued",
     "Year": "2016",
     "Type": "Sunglasses",
-    "RetailPrice": "320.00",
+    "RetailPrice": "290",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473466878",
+    "ItemName": "SUPERNATURE-01(9M)",
+    "Comments": "Discontinued",
+    "Year": "2016",
+    "Type": "TOME",
+    "RetailPrice": "330",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473466885",
+    "ItemName": "SUPERNATURE-C1(2M)",
+    "Comments": "Discontinued",
+    "Year": "2016",
+    "Type": "TOME",
+    "RetailPrice": "330",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473466922",
+    "ItemName": "CHICHI-WB1(6M)",
+    "Comments": "Discontinued",
+    "Year": "2016",
+    "Type": "Sunglasses",
+    "RetailPrice": "260",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473467035",
+    "ItemName": "ICEDESERT-02(6M)",
+    "Comments": "Discontinued",
+    "Year": "2016",
+    "Type": "Sunglasses",
+    "RetailPrice": "540",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473467059",
+    "ItemName": "ICEDESERT-WP1",
+    "Comments": "Discontinued",
+    "Year": "2016",
+    "Type": "Sunglasses",
+    "RetailPrice": "540",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473467196",
+    "ItemName": "MOONCUT.S-PBD1",
+    "Comments": "Discontinued",
+    "Year": "2016",
+    "Type": "Sunglasses",
+    "RetailPrice": "249",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473467202",
+    "ItemName": "MOONCUT.S-OWD1(2M)",
+    "Comments": "Discontinued",
+    "Year": "2016",
+    "Type": "Sunglasses",
+    "RetailPrice": "249",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473467257",
+    "ItemName": "SCULPTOR-02(1M)",
+    "Comments": "Discontinued",
+    "Year": "2016",
+    "Type": "Sunglasses",
+    "RetailPrice": "540",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473467264",
+    "ItemName": "SCULPTOR-DR1(4M)",
+    "Comments": "Discontinued",
+    "Year": "2016",
+    "Type": "Sunglasses",
+    "RetailPrice": "540",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473467271",
+    "ItemName": "SCULPTOR-WP1",
+    "Comments": "Discontinued",
+    "Year": "2016",
+    "Type": "Sunglasses",
+    "RetailPrice": "540",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473467295",
+    "ItemName": "STONETAILOR-02(6M)",
+    "Comments": "Discontinued",
+    "Year": "2016",
+    "Type": "Sunglasses",
+    "RetailPrice": "540",
     "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
   },
   {
@@ -428,7 +752,7 @@
     "Comments": "Active (Limited)",
     "Year": "2016",
     "Type": "Sunglasses",
-    "RetailPrice": "260.00",
+    "RetailPrice": "260",
     "ImageUrl": "https://i.postimg.cc/Kcwh629k/SWITCHBACK-01-2-M-1.jpg"
   },
   {
@@ -437,7 +761,7 @@
     "Comments": "Active (Limited)",
     "Year": "2016",
     "Type": "Sunglasses",
-    "RetailPrice": "260.00",
+    "RetailPrice": "260",
     "ImageUrl": "https://i.postimg.cc/VkBy0bzn/SWITCHBACK-S3-1.jpg"
   },
   {
@@ -446,34 +770,25 @@
     "Comments": "Active (Limited)",
     "Year": "2016",
     "Type": "Sunglasses",
-    "RetailPrice": "260.00",
+    "RetailPrice": "260",
     "ImageUrl": "https://i.postimg.cc/15F1PjTW/SWITCHBACK-MB3-2-M-1.jpg"
   },
   {
-    "BarcodeNo": "8809473467554",
-    "ItemName": "SAMO-GD",
-    "Comments": "Active (Limited)",
+    "BarcodeNo": "8809473467387",
+    "ItemName": "SWITCHBACK.S-BBD1(4M)",
+    "Comments": "Discontinued",
     "Year": "2016",
-    "Type": "Clip",
-    "RetailPrice": "60.00",
+    "Type": "Sunglasses",
+    "RetailPrice": "260",
     "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
   },
   {
-    "BarcodeNo": "8809473467561",
-    "ItemName": "SAMO-BK",
-    "Comments": "Active (Limited)",
+    "BarcodeNo": "8809473467417",
+    "ItemName": "TELLME-BBD1",
+    "Comments": "Discontinued",
     "Year": "2016",
-    "Type": "Clip",
-    "RetailPrice": "60.00",
-    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
-  },
-  {
-    "BarcodeNo": "8809473467578",
-    "ItemName": "SOUTHSIDE-GD",
-    "Comments": "Active (Limited)",
-    "Year": "2016",
-    "Type": "Clip",
-    "RetailPrice": "60.00",
+    "Type": "Sunglasses",
+    "RetailPrice": "280",
     "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
   },
   {
@@ -482,7 +797,7 @@
     "Comments": "Active (Limited)",
     "Year": "2016",
     "Type": "Clip",
-    "RetailPrice": "60.00",
+    "RetailPrice": "60",
     "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
   },
   {
@@ -491,7 +806,61 @@
     "Comments": "Active (Limited)",
     "Year": "2016",
     "Type": "Clip",
-    "RetailPrice": "60.00",
+    "RetailPrice": "60",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473467622",
+    "ItemName": "OLGA-W03",
+    "Comments": "Discontinued",
+    "Year": "2016",
+    "Type": "Opening Ceremony",
+    "RetailPrice": "320",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473467639",
+    "ItemName": "OLGA-01",
+    "Comments": "Discontinued",
+    "Year": "2016",
+    "Type": "Opening Ceremony",
+    "RetailPrice": "320",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473467646",
+    "ItemName": "OLGA-03",
+    "Comments": "Discontinued",
+    "Year": "2016",
+    "Type": "Opening Ceremony",
+    "RetailPrice": "320",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473467653",
+    "ItemName": "RAY-W03",
+    "Comments": "Concept Piece",
+    "Year": "2016",
+    "Type": "Opening Ceremony",
+    "RetailPrice": "450",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473467660",
+    "ItemName": "RAY-03",
+    "Comments": "Discontinued",
+    "Year": "2016",
+    "Type": "Opening Ceremony",
+    "RetailPrice": "450",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473467677",
+    "ItemName": "HIRAKISH-M01",
+    "Comments": "Not Allowed Sales",
+    "Year": "2016",
+    "Type": "HBA",
+    "RetailPrice": "380",
     "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
   },
   {
@@ -500,52 +869,232 @@
     "Comments": "Active (Limited)",
     "Year": "2016",
     "Type": "HBA",
-    "RetailPrice": "380.00",
+    "RetailPrice": "380",
     "ImageUrl": "https://i.postimg.cc/y8NxLBWJ/JACUZZI-M01-1.jpg"
   },
   {
-    "BarcodeNo": "8809473468162",
-    "ItemName": "CLASSICO-BK",
-    "Comments": "Active (Limited)-STORE Only",
+    "BarcodeNo": "8809473467806",
+    "ItemName": "CARA-W03",
+    "Comments": "Discontinued",
     "Year": "2016",
-    "Type": "Clip",
-    "RetailPrice": "60.00",
-    "ImageUrl": "https://i.postimg.cc/xTkQFCnb/CLASSICO-BK.png"
-  },
-  {
-    "BarcodeNo": "8809473468179",
-    "ItemName": "CLASSICO-GD",
-    "Comments": "Active (Limited)-STORE Only",
-    "Year": "2016",
-    "Type": "Clip",
-    "RetailPrice": "60.00",
+    "Type": "Opening Ceremony",
+    "RetailPrice": "320",
     "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
   },
   {
-    "BarcodeNo": "8809473468513",
-    "ItemName": "BLUEMOON-G01",
-    "Comments": "Active",
+    "BarcodeNo": "8809473467813",
+    "ItemName": "CARA-03",
+    "Comments": "Discontinued",
+    "Year": "2016",
+    "Type": "Opening Ceremony",
+    "RetailPrice": "320",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473467820",
+    "ItemName": "CARA-02",
+    "Comments": "Discontinued",
+    "Year": "2016",
+    "Type": "Opening Ceremony",
+    "RetailPrice": "320",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473467837",
+    "ItemName": "CARA-01",
+    "Comments": "Discontinued",
+    "Year": "2016",
+    "Type": "Opening Ceremony",
+    "RetailPrice": "320",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473467844",
+    "ItemName": "DI_RZR01-M01",
+    "Comments": "Discontinued",
+    "Year": "2016",
+    "Type": "Collaboration",
+    "RetailPrice": "400",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473467851",
+    "ItemName": "DI_RZR01-M01(4M)",
+    "Comments": "Discontinued",
+    "Year": "2016",
+    "Type": "Collaboration",
+    "RetailPrice": "400",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473467875",
+    "ItemName": "DI_RZR01-M02",
+    "Comments": "Discontinued",
+    "Year": "2016",
+    "Type": "Collaboration",
+    "RetailPrice": "400",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473468018",
+    "ItemName": "RAY-02",
+    "Comments": "Discontinued",
+    "Year": "2016",
+    "Type": "Opening Ceremony",
+    "RetailPrice": "450",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473468025",
+    "ItemName": "TYPE1-01",
+    "Comments": "Discontinued",
+    "Year": "2016",
+    "Type": "Collaboration",
+    "RetailPrice": "249",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473468032",
+    "ItemName": "TYPE1-S3",
+    "Comments": "Discontinued",
+    "Year": "2016",
+    "Type": "Collaboration",
+    "RetailPrice": "249",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473468049",
+    "ItemName": "TYPE1-RTD2",
+    "Comments": "Discontinued",
+    "Year": "2016",
+    "Type": "Collaboration",
+    "RetailPrice": "249",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473468148",
+    "ItemName": "TYPE2-03(2M)",
+    "Comments": "Discontinued",
+    "Year": "2016",
+    "Type": "Collaboration",
+    "RetailPrice": "270",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473468155",
+    "ItemName": "13PROUD-02",
+    "Comments": "Discontinued",
     "Year": "2016",
     "Type": "Opticals",
-    "RetailPrice": "200.00",
-    "ImageUrl": "https://i.postimg.cc/LXDVF2kc/BLUEMOON-G01-1.jpg"
+    "RetailPrice": "210",
+    "ImageUrl": "https://i.postimg.cc/mg5HWhHf/13-PROUD-02.jpg"
   },
   {
-    "BarcodeNo": "8809473468520",
-    "ItemName": "DREAMERHOFF-01",
-    "Comments": "Active (Limited)",
-    "Year": "2017",
+    "BarcodeNo": "8809473468391",
+    "ItemName": "CUBA503-01GD",
+    "Comments": "Discontinued",
+    "Year": "2016",
     "Type": "Sunglasses",
-    "RetailPrice": "215.00",
-    "ImageUrl": "https://i.postimg.cc/DfbqcrRV/DREAMERHOFF-01-1.jpg"
+    "RetailPrice": "230",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
   },
   {
-    "BarcodeNo": "8809473468728",
-    "ItemName": "JUMPINGJACK-032(B)",
-    "Comments": "Active (Limited)-STORE Only",
+    "BarcodeNo": "8809473468407",
+    "ItemName": "CUBA503-01(1M)GD",
+    "Comments": "Discontinued",
+    "Year": "2016",
+    "Type": "Sunglasses",
+    "RetailPrice": "230",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473468414",
+    "ItemName": "CUBA503-G1GD",
+    "Comments": "Discontinued",
+    "Year": "2016",
+    "Type": "Sunglasses",
+    "RetailPrice": "230",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473468421",
+    "ItemName": "CUBA503-PBD1GD",
+    "Comments": "Discontinued",
+    "Year": "2016",
+    "Type": "Sunglasses",
+    "RetailPrice": "230",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473468490",
+    "ItemName": "PROUD-BK",
+    "Comments": "Discontinued",
+    "Year": "2016",
+    "Type": "Clip",
+    "RetailPrice": "60",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473468506",
+    "ItemName": "PROUD-GD",
+    "Comments": "Discontinued",
+    "Year": "2016",
+    "Type": "Clip",
+    "RetailPrice": "60",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473468537",
+    "ItemName": "LEELA-02",
+    "Comments": "Discontinued",
+    "Year": "2016",
+    "Type": "Opening Ceremony",
+    "RetailPrice": "380",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473468544",
+    "ItemName": "LEELA-E1",
+    "Comments": "Discontinued",
+    "Year": "2016",
+    "Type": "Opening Ceremony",
+    "RetailPrice": "380",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473468551",
+    "ItemName": "LEELA-S1",
+    "Comments": "Discontinued",
+    "Year": "2016",
+    "Type": "Opening Ceremony",
+    "RetailPrice": "380",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473468704",
+    "ItemName": "BIGBULLY-032(1M)",
+    "Comments": "Discontinued",
     "Year": "2017",
     "Type": "Sunglasses",
-    "RetailPrice": "320.00",
+    "RetailPrice": "280",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473468711",
+    "ItemName": "BIGBULLY.S-032(1M)",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "280",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473468735",
+    "ItemName": "LOVEPUNCH-032(2M)",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "290",
     "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
   },
   {
@@ -554,8 +1103,71 @@
     "Comments": "Active (Limited)",
     "Year": "2017",
     "Type": "Sunglasses",
-    "RetailPrice": "215.00",
+    "RetailPrice": "215",
     "ImageUrl": "https://i.postimg.cc/Y0n0Hys2/SALT-01-1.jpg"
+  },
+  {
+    "BarcodeNo": "8809473468766",
+    "ItemName": "MATTI-01",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "230",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473468773",
+    "ItemName": "MATTI-K4",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "230",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473468780",
+    "ItemName": "MATTI-034",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "230",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473468797",
+    "ItemName": "MATTI-N2",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "230",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473468803",
+    "ItemName": "MATTI-RD1",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "230",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473468810",
+    "ItemName": "MATTI-A1",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "230",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473468827",
+    "ItemName": "CUBA503-034GD",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "230",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
   },
   {
     "BarcodeNo": "8809473468841",
@@ -563,17 +1175,8 @@
     "Comments": "Active (Limited)-STORE Only",
     "Year": "2017",
     "Type": "Sunglasses",
-    "RetailPrice": "249.00",
+    "RetailPrice": "249",
     "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
-  },
-  {
-    "BarcodeNo": "8809473468858",
-    "ItemName": "BLACKPETER-S1",
-    "Comments": "Active",
-    "Year": "2017",
-    "Type": "Sunglasses",
-    "RetailPrice": "249.00",
-    "ImageUrl": "https://i.postimg.cc/hP5pG4Fg/BLACKPETER-S1-1.jpg"
   },
   {
     "BarcodeNo": "8809473468865",
@@ -581,7 +1184,7 @@
     "Comments": "Active (Limited)-STORE Only",
     "Year": "2017",
     "Type": "Sunglasses",
-    "RetailPrice": "249.00",
+    "RetailPrice": "249",
     "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
   },
   {
@@ -590,8 +1193,17 @@
     "Comments": "Active (Limited)",
     "Year": "2017",
     "Type": "Sunglasses",
-    "RetailPrice": "249.00",
+    "RetailPrice": "249",
     "ImageUrl": "https://i.postimg.cc/76zfSVhm/INSCARLET-034-1.jpg"
+  },
+  {
+    "BarcodeNo": "8809473468926",
+    "ItemName": "INSCARLET-BC3",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "249",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
   },
   {
     "BarcodeNo": "8809473468933",
@@ -599,8 +1211,17 @@
     "Comments": "Active (Limited)",
     "Year": "2017",
     "Type": "Sunglasses",
-    "RetailPrice": "249.00",
+    "RetailPrice": "249",
     "ImageUrl": "https://i.postimg.cc/wMcMGjhN/INSCARLET-K3-1.jpg"
+  },
+  {
+    "BarcodeNo": "8809473468940",
+    "ItemName": "INSCARLET-C1",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "249",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
   },
   {
     "BarcodeNo": "8809473468957",
@@ -608,35 +1229,179 @@
     "Comments": "Active (Limited)",
     "Year": "2017",
     "Type": "Sunglasses",
-    "RetailPrice": "190.00",
+    "RetailPrice": "190",
     "ImageUrl": "https://i.postimg.cc/HLyytHPw/PULPFICTION-01-1.jpg"
   },
   {
-    "BarcodeNo": "8809473468971",
-    "ItemName": "PULPFICTION-01(11M)",
-    "Comments": "Active (Limited)",
+    "BarcodeNo": "8809473468964",
+    "ItemName": "PULPFICTION-01(1M)",
+    "Comments": "Discontinued",
     "Year": "2017",
     "Type": "Sunglasses",
-    "RetailPrice": "190.00",
-    "ImageUrl": "https://i.postimg.cc/RF1Jjdmq/PULPFICTION-01-11-1.jpg"
+    "RetailPrice": "190",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
   },
   {
-    "BarcodeNo": "8809473469053",
-    "ItemName": "VANILLAROAD-01GD",
-    "Comments": "Active (Limited)",
-    "Year": "2016",
+    "BarcodeNo": "8809473468988",
+    "ItemName": "PULPFICTION-C1(1M)",
+    "Comments": "Discontinued",
+    "Year": "2017",
     "Type": "Sunglasses",
-    "RetailPrice": "230.00",
-    "ImageUrl": "https://i.postimg.cc/3NXMjy2s/VANILLAROAD-01-GD-1.jpg"
+    "RetailPrice": "190",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
   },
   {
-    "BarcodeNo": "8809473469060",
-    "ItemName": "VANILLAROAD-01(2M)GD",
-    "Comments": "Active (Limited)",
+    "BarcodeNo": "8809473468995",
+    "ItemName": "PULPFICTION-K1",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "190",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473469008",
+    "ItemName": "FINN-01",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "215",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473469015",
+    "ItemName": "FINN-01(BL)",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "215",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473469022",
+    "ItemName": "FINN-K3",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "215",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473469039",
+    "ItemName": "FINN-N2",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "215",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473469046",
+    "ItemName": "FINN-GY1",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "215",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473469077",
+    "ItemName": "VANILLAROAD-S3GD",
+    "Comments": "Discontinued",
     "Year": "2016",
     "Type": "Sunglasses",
-    "RetailPrice": "230.00",
-    "ImageUrl": "https://i.postimg.cc/NFqqr828/VANILLAROAD-01-2-M-GD-1.jpg"
+    "RetailPrice": "230",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473469084",
+    "ItemName": "VANILLAROAD-G8(2M)GD",
+    "Comments": "Discontinued",
+    "Year": "2016",
+    "Type": "Sunglasses",
+    "RetailPrice": "230",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473469091",
+    "ItemName": "VANILLAROAD-PBD1GD",
+    "Comments": "Discontinued",
+    "Year": "2016",
+    "Type": "Sunglasses",
+    "RetailPrice": "230",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473469107",
+    "ItemName": "VANILLAROAD-RTD3(6M)GD",
+    "Comments": "Discontinued",
+    "Year": "2016",
+    "Type": "Sunglasses",
+    "RetailPrice": "230",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473469114",
+    "ItemName": "BUTTON-01GD",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "230",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473469121",
+    "ItemName": "BUTTON-01(2M)GD",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "230",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473469138",
+    "ItemName": "BUTTON-PD1GD",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "230",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473469145",
+    "ItemName": "BUTTON-S4GD",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "230",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473469152",
+    "ItemName": "BUTTON-034GD",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "230",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473469169",
+    "ItemName": "BIGBULLY-02(11M)",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "280",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473469176",
+    "ItemName": "BIGBULLY.S-02(11M)",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "280",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
   },
   {
     "BarcodeNo": "8809473469183",
@@ -644,8 +1409,17 @@
     "Comments": "Active (Low)",
     "Year": "2017",
     "Type": "Sunglasses",
-    "RetailPrice": "260.00",
+    "RetailPrice": "260",
     "ImageUrl": "https://i.postimg.cc/mk8zrrts/RANNYRING-02-1-M-1.jpg"
+  },
+  {
+    "BarcodeNo": "8809473469190",
+    "ItemName": "KEYWEST-01(BR)",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "215",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
   },
   {
     "BarcodeNo": "8809473469220",
@@ -653,8 +1427,125 @@
     "Comments": "Active",
     "Year": "2017",
     "Type": "Sunglasses",
-    "RetailPrice": "260.00",
+    "RetailPrice": "260",
     "ImageUrl": "https://i.postimg.cc/tC4nMFMC/RANNYRING-02-P-1.jpg"
+  },
+  {
+    "BarcodeNo": "8809473469237",
+    "ItemName": "LASER-01",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "230",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473469244",
+    "ItemName": "LASER-034",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "230",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473469251",
+    "ItemName": "LASER-ST1",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "230",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473469268",
+    "ItemName": "LASER-W1",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "230",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473469275",
+    "ItemName": "LASER-GY1",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "230",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473469282",
+    "ItemName": "PERCY-034",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "230",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473469305",
+    "ItemName": "PERCY-S1(1M)",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "230",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473469312",
+    "ItemName": "PERCY-01",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "230",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473469336",
+    "ItemName": "THEWHIP-034GD",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "269",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473469367",
+    "ItemName": "SIGNOFTWO-01BK",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "320",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473469374",
+    "ItemName": "SIGNOFTWO-S3GD",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "320",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473469381",
+    "ItemName": "SIGNOFTWO-K3GD",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "320",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473469398",
+    "ItemName": "SIGNOFTWO-RD1GD",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "320",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
   },
   {
     "BarcodeNo": "8809473469404",
@@ -662,7 +1553,7 @@
     "Comments": "Active (Limited)",
     "Year": "2017",
     "Type": "Sunglasses",
-    "RetailPrice": "280.00",
+    "RetailPrice": "280",
     "ImageUrl": "https://i.postimg.cc/Y0pMjfW4/LASTBOW-02-BR-1.jpg"
   },
   {
@@ -671,17 +1562,17 @@
     "Comments": "Active (Limited)",
     "Year": "2017",
     "Type": "Sunglasses",
-    "RetailPrice": "280.00",
+    "RetailPrice": "280",
     "ImageUrl": "https://i.postimg.cc/3JfYJGJR/LASTBOW-M01-3-F-1.jpg"
   },
   {
-    "BarcodeNo": "8809473469435",
-    "ItemName": "LASTBOW-B1(11M)",
-    "Comments": "Active (Limited)",
+    "BarcodeNo": "8809473469428",
+    "ItemName": "LASTBOW-03(PM)",
+    "Comments": "Discontinued",
     "Year": "2017",
     "Type": "Sunglasses",
-    "RetailPrice": "280.00",
-    "ImageUrl": "https://i.postimg.cc/BbMsFLTm/LASTBOW-B1-11-M-1.jpg"
+    "RetailPrice": "280",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
   },
   {
     "BarcodeNo": "8809473469459",
@@ -689,7 +1580,16 @@
     "Comments": "Active (Limited)-STORE Only",
     "Year": "2017",
     "Type": "Sunglasses",
-    "RetailPrice": "215.00",
+    "RetailPrice": "215",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473469466",
+    "ItemName": "NOIRCAT-N2",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "215",
     "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
   },
   {
@@ -698,26 +1598,8 @@
     "Comments": "Active (Limited)-STORE Only",
     "Year": "2017",
     "Type": "Sunglasses",
-    "RetailPrice": "215.00",
+    "RetailPrice": "215",
     "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
-  },
-  {
-    "BarcodeNo": "8809473469497",
-    "ItemName": "TOOL-M13",
-    "Comments": "Active (Limited)",
-    "Year": "2017",
-    "Type": "Sunglasses",
-    "RetailPrice": "280.00",
-    "ImageUrl": "https://i.postimg.cc/g2dz7pJy/TOOL-M13-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809473469503",
-    "ItemName": "TOOL-M01",
-    "Comments": "Active (Limited)",
-    "Year": "2017",
-    "Type": "Sunglasses",
-    "RetailPrice": "280.00",
-    "ImageUrl": "https://i.postimg.cc/SQBNWCbv/TOOL-M01-1.jpg"
   },
   {
     "BarcodeNo": "8809473469510",
@@ -725,16 +1607,124 @@
     "Comments": "Active (Limited)",
     "Year": "2017",
     "Type": "Sunglasses",
-    "RetailPrice": "280.00",
+    "RetailPrice": "280",
     "ImageUrl": "https://i.postimg.cc/Wb0pSz2b/TOOL-B1-11-M-1.jpg"
   },
   {
-    "BarcodeNo": "8809473469565",
-    "ItemName": "BIGBULLY-01",
-    "Comments": "Active (Low)",
-    "Year": "2018",
+    "BarcodeNo": "8809473469527",
+    "ItemName": "TOOL-P1(PM)",
+    "Comments": "Discontinued",
+    "Year": "2017",
     "Type": "Sunglasses",
-    "RetailPrice": "280.00",
+    "RetailPrice": "280",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473469534",
+    "ItemName": "TRICKOFTHELIGHT-02(1M)",
+    "Comments": "Not Allowed Sales",
+    "Year": "2017",
+    "Type": "Tilda",
+    "RetailPrice": "286",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473469541",
+    "ItemName": "TRICKOFTHELIGHT-P1(PM)",
+    "Comments": "Not Allowed Sales",
+    "Year": "2017",
+    "Type": "Tilda",
+    "RetailPrice": "286",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473469558",
+    "ItemName": "TRICKOFTHELIGHT-B1(11M)",
+    "Comments": "Not Allowed Sales",
+    "Year": "2017",
+    "Type": "Tilda",
+    "RetailPrice": "286",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473469572",
+    "ItemName": "EYE EYE-033",
+    "Comments": "Not Allowed Sales",
+    "Year": "2017",
+    "Type": "Tilda",
+    "RetailPrice": "250",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473469589",
+    "ItemName": "EYE EYE-01",
+    "Comments": "Not Allowed Sales",
+    "Year": "2017",
+    "Type": "Tilda",
+    "RetailPrice": "250",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473469602",
+    "ItemName": "EYE EYE-RD1",
+    "Comments": "Not Allowed Sales",
+    "Year": "2017",
+    "Type": "Tilda",
+    "RetailPrice": "250",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473469626",
+    "ItemName": "ADDMOON-02(1M)",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "260",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473469640",
+    "ItemName": "ADDMOON-02(Y)",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "260",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473469657",
+    "ItemName": "AMIADAM-P1(PM)",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "249",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473469695",
+    "ItemName": "FISHER-M02",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "249",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473469701",
+    "ItemName": "FISHER-M03",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "249",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473469718",
+    "ItemName": "REDPOCKET-01",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "260",
     "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
   },
   {
@@ -743,7 +1733,7 @@
     "Comments": "Active (Limited)-STORE Only",
     "Year": "2017",
     "Type": "Sunglasses",
-    "RetailPrice": "260.00",
+    "RetailPrice": "260",
     "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
   },
   {
@@ -752,7 +1742,7 @@
     "Comments": "Active (Limited)-STORE Only",
     "Year": "2017",
     "Type": "Sunglasses",
-    "RetailPrice": "260.00",
+    "RetailPrice": "260",
     "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
   },
   {
@@ -761,7 +1751,25 @@
     "Comments": "Active (Limited)-STORE Only",
     "Year": "2017",
     "Type": "Sunglasses",
-    "RetailPrice": "260.00",
+    "RetailPrice": "260",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473469763",
+    "ItemName": "ODDODD-02(Y)",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "320",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473469770",
+    "ItemName": "NEWTONIC-K3",
+    "Comments": "Not Allowed Sales",
+    "Year": "2017",
+    "Type": "Tilda",
+    "RetailPrice": "286",
     "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
   },
   {
@@ -770,125 +1778,98 @@
     "Comments": "Active",
     "Year": "2017",
     "Type": "Sunglasses",
-    "RetailPrice": "215.00",
+    "RetailPrice": "215",
     "ImageUrl": "https://i.postimg.cc/Nfsj0Y6N/KEYWEST-01-1.jpg"
   },
   {
-    "BarcodeNo": "8809473469794",
-    "ItemName": "KEYWEST-G1",
-    "Comments": "Active",
+    "BarcodeNo": "8809473469800",
+    "ItemName": "KEYWEST-N2",
+    "Comments": "Discontinued",
     "Year": "2017",
     "Type": "Sunglasses",
-    "RetailPrice": "215.00",
-    "ImageUrl": "https://i.postimg.cc/Nfdf9VbQ/KEYWEST-G1-1.jpg"
+    "RetailPrice": "215",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
   },
   {
-    "BarcodeNo": "8809473469817",
-    "ItemName": "KEYWEST-RD1",
-    "Comments": "Active",
+    "BarcodeNo": "8809473469862",
+    "ItemName": "MATTI.S-01",
+    "Comments": "Discontinued",
     "Year": "2017",
     "Type": "Sunglasses",
-    "RetailPrice": "215.00",
-    "ImageUrl": "https://i.postimg.cc/cLjxTnVj/KEYWEST-RD1-1.jpg"
+    "RetailPrice": "230",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
   },
   {
-    "BarcodeNo": "8809473469831",
-    "ItemName": "9PROUD-01",
-    "Comments": "Active",
-    "Year": "2017",
-    "Type": "Opticals",
-    "RetailPrice": "210.00",
-    "ImageUrl": "https://i.postimg.cc/MTVh7MSy/9-PROUD-01.jpg"
-  },
-  {
-    "BarcodeNo": "8809473469848",
-    "ItemName": "9PROUD-02",
-    "Comments": "Active",
-    "Year": "2017",
-    "Type": "Opticals",
-    "RetailPrice": "210.00",
-    "ImageUrl": "https://i.postimg.cc/j2TBZxxB/9-PROUD-02.jpg"
-  },
-  {
-    "BarcodeNo": "8809473469855",
-    "ItemName": "9PROUD-032",
-    "Comments": "Active",
-    "Year": "2017",
-    "Type": "Opticals",
-    "RetailPrice": "210.00",
-    "ImageUrl": "https://i.postimg.cc/6qhgPkTq/9-PROUD-032.jpg"
-  },
-  {
-    "BarcodeNo": "8809488903306",
-    "ItemName": "RIGO-B4",
-    "Comments": "Active (Limited)",
-    "Year": "2016",
-    "Type": "Opticals",
-    "RetailPrice": "230.00",
-    "ImageUrl": "https://i.postimg.cc/RZj3hyVN/RIGO-B4-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809488903313",
-    "ItemName": "SOUTHSIDE-01(EM)",
-    "Comments": "Active (Limited)",
-    "Year": "2016",
-    "Type": "Opticals",
-    "RetailPrice": "210.00",
-    "ImageUrl": "https://i.postimg.cc/fLgQTnDP/SOUTHSIDE-01-EM-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809488905218",
-    "ItemName": "ELL-01",
-    "Comments": "Active (Limited)",
-    "Year": "2017",
-    "Type": "Opticals",
-    "RetailPrice": "230.00",
-    "ImageUrl": "https://i.postimg.cc/3wRG0m2c/ELL-01-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809488905232",
-    "ItemName": "ELL-B4",
-    "Comments": "Active (Limited)",
-    "Year": "2017",
-    "Type": "Opticals",
-    "RetailPrice": "230.00",
-    "ImageUrl": "https://i.postimg.cc/ZqMd8ncK/ELL-B4-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809488905249",
-    "ItemName": "ELLH-01",
-    "Comments": "Active",
-    "Year": "2017",
-    "Type": "Opticals",
-    "RetailPrice": "230.00",
-    "ImageUrl": "https://i.postimg.cc/GhCsJZkY/ELLH-01-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809488905256",
-    "ItemName": "ELLH-B4",
-    "Comments": "Active",
-    "Year": "2017",
-    "Type": "Opticals",
-    "RetailPrice": "230.00",
-    "ImageUrl": "https://i.postimg.cc/Pxv82H3b/ELLH-B4-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809488905270",
-    "ItemName": "SALT-01(11M)",
-    "Comments": "Active (Limited)",
+    "BarcodeNo": "8809473469879",
+    "ItemName": "MATTI.S-K4",
+    "Comments": "Discontinued",
     "Year": "2017",
     "Type": "Sunglasses",
-    "RetailPrice": "215.00",
-    "ImageUrl": "https://i.postimg.cc/CMmzkzxy/SALT-01-11-M-1.jpg"
+    "RetailPrice": "230",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
   },
   {
-    "BarcodeNo": "8809488905287",
-    "ItemName": "SALT-S1(1M)",
-    "Comments": "Active (Limited)",
+    "BarcodeNo": "8809473469886",
+    "ItemName": "PENGBON-01(2M)",
+    "Comments": "Discontinued",
     "Year": "2017",
     "Type": "Sunglasses",
-    "RetailPrice": "215.00",
-    "ImageUrl": "https://i.postimg.cc/JzBnfxcm/SALT-S1-1-M-1.jpg"
+    "RetailPrice": "230",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473469893",
+    "ItemName": "PENGBON-C1(2M)",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "230",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809473469909",
+    "ItemName": "PENGBON-01",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "230",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809488905157",
+    "ItemName": "ADDMOON-02(11M)",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "260",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809488905225",
+    "ItemName": "ELL-D01",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Opticals",
+    "RetailPrice": "230",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809488905294",
+    "ItemName": "SALT-034",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "215",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809488905300",
+    "ItemName": "SALT-A1",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "215",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
   },
   {
     "BarcodeNo": "8809488905331",
@@ -896,7 +1877,7 @@
     "Comments": "Active (Limited)",
     "Year": "2017",
     "Type": "Sunglasses",
-    "RetailPrice": "215.00",
+    "RetailPrice": "215",
     "ImageUrl": "https://i.postimg.cc/MHRVKw1Z/DREAMERHOFF-01-1-M-1.jpg"
   },
   {
@@ -905,17 +1886,8 @@
     "Comments": "Active (Limited)",
     "Year": "2017",
     "Type": "Sunglasses",
-    "RetailPrice": "215.00",
+    "RetailPrice": "215",
     "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
-  },
-  {
-    "BarcodeNo": "8809488905355",
-    "ItemName": "DREAMERHOFF-G1(1M)",
-    "Comments": "Active (Limited)",
-    "Year": "2017",
-    "Type": "Sunglasses",
-    "RetailPrice": "215.00",
-    "ImageUrl": "https://i.postimg.cc/5Nd8KHMX/DREAMERHOFF-G1-1-M-1.jpg"
   },
   {
     "BarcodeNo": "8809488905362",
@@ -923,7 +1895,7 @@
     "Comments": "Active (Limited)",
     "Year": "2017",
     "Type": "Sunglasses",
-    "RetailPrice": "215.00",
+    "RetailPrice": "215",
     "ImageUrl": "https://i.postimg.cc/jdHPpssZ/DREAMERHOFF-PD1-1.jpg"
   },
   {
@@ -932,8 +1904,44 @@
     "Comments": "Active (Limited)",
     "Year": "2017",
     "Type": "Sunglasses",
-    "RetailPrice": "215.00",
+    "RetailPrice": "215",
     "ImageUrl": "https://i.postimg.cc/x19MYW8Y/DREAMERHOFF-S4-1.jpg"
+  },
+  {
+    "BarcodeNo": "8809488905393",
+    "ItemName": "LOVESOMETALE-S1(1M)GD",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "230",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809488905409",
+    "ItemName": "LOVESOMETALE-S4GD",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "230",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809488905423",
+    "ItemName": "SOMEONETALE-034GD",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "230",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809488905430",
+    "ItemName": "SOMEONETALE-P6(2M)GD",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "230",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
   },
   {
     "BarcodeNo": "8809488905447",
@@ -941,7 +1949,7 @@
     "Comments": "Active (Limited)",
     "Year": "2017",
     "Type": "HBA",
-    "RetailPrice": "420.00",
+    "RetailPrice": "420",
     "ImageUrl": "https://i.postimg.cc/tJCJ8HDm/ROCKERFISH-02-1.jpg"
   },
   {
@@ -950,7 +1958,7 @@
     "Comments": "Active (Limited)",
     "Year": "2017",
     "Type": "HBA",
-    "RetailPrice": "420.00",
+    "RetailPrice": "420",
     "ImageUrl": "https://i.postimg.cc/NMt57XXt/ROCKERFISH-02-G-1.jpg"
   },
   {
@@ -959,7 +1967,7 @@
     "Comments": "Active (Limited)",
     "Year": "2017",
     "Type": "HBA",
-    "RetailPrice": "420.00",
+    "RetailPrice": "420",
     "ImageUrl": "https://i.postimg.cc/QxCVbhFF/ROCKERFISH-02-Y-1.jpg"
   },
   {
@@ -968,7 +1976,7 @@
     "Comments": "Active (Limited)",
     "Year": "2017",
     "Type": "HBA",
-    "RetailPrice": "320.00",
+    "RetailPrice": "320",
     "ImageUrl": "https://i.postimg.cc/wMJ4KSvL/NUNTY-01-1.jpg"
   },
   {
@@ -977,7 +1985,7 @@
     "Comments": "Active (Limited)",
     "Year": "2017",
     "Type": "HBA",
-    "RetailPrice": "320.00",
+    "RetailPrice": "320",
     "ImageUrl": "https://i.postimg.cc/FKWB0y8d/NUNTY-01-C-1.jpg"
   },
   {
@@ -986,17 +1994,8 @@
     "Comments": "Active (Limited)",
     "Year": "2017",
     "Type": "HBA",
-    "RetailPrice": "320.00",
+    "RetailPrice": "320",
     "ImageUrl": "https://i.postimg.cc/qRWD5kkp/NUNTY-01-Y-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809488905508",
-    "ItemName": "NUNTY-01(R)",
-    "Comments": "Active (Limited)",
-    "Year": "2017",
-    "Type": "HBA",
-    "RetailPrice": "320.00",
-    "ImageUrl": "https://i.postimg.cc/rmDYjd2h/NUNTY-01-R-1.jpg"
   },
   {
     "BarcodeNo": "8809488905515",
@@ -1004,62 +2003,431 @@
     "Comments": "Active (Limited)",
     "Year": "2017",
     "Type": "HBA",
-    "RetailPrice": "320.00",
+    "RetailPrice": "320",
     "ImageUrl": "https://i.postimg.cc/3rDcDDBN/NUNTY-B4-1.jpg"
   },
   {
-    "BarcodeNo": "8809488906079",
-    "ItemName": "TAZI-01",
-    "Comments": "Active (Limited)",
+    "BarcodeNo": "8809488905553",
+    "ItemName": "MATTI-01(2M)",
+    "Comments": "Discontinued",
     "Year": "2017",
     "Type": "Sunglasses",
-    "RetailPrice": "260.00",
-    "ImageUrl": "https://i.postimg.cc/s2VkYD28/TAZI-01-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809488907267",
-    "ItemName": "TAZI-01(P+F)",
-    "Comments": "Active-ECOMM Only",
-    "Year": "2018",
-    "Type": "P+F",
-    "RetailPrice": "281.00",
+    "RetailPrice": "230",
     "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
   },
   {
-    "BarcodeNo": "8809488907311",
-    "ItemName": "DIVINITY-01",
-    "Comments": "Active (Limited)",
+    "BarcodeNo": "8809488905560",
+    "ItemName": "MATTI.S-034",
+    "Comments": "Discontinued",
     "Year": "2017",
-    "Type": "Moooi",
-    "RetailPrice": "240.00",
-    "ImageUrl": "https://i.postimg.cc/YSn1dbp7/DIVINITY-01-1.jpg"
+    "Type": "Sunglasses",
+    "RetailPrice": "230",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
   },
   {
-    "BarcodeNo": "8809488907328",
-    "ItemName": "DIVINITY-02(11M)",
-    "Comments": "Active (Limited)",
+    "BarcodeNo": "8809488905584",
+    "ItemName": "BLACKPETER.S-034",
+    "Comments": "Discontinued",
     "Year": "2017",
-    "Type": "Moooi",
-    "RetailPrice": "240.00",
-    "ImageUrl": "https://i.postimg.cc/pTmK4zTF/DIVINITY-02-11-M-1.jpg"
+    "Type": "Sunglasses",
+    "RetailPrice": "249",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
   },
   {
-    "BarcodeNo": "8809488907335",
-    "ItemName": "DIVINITY-03(2M)",
-    "Comments": "Active (Limited)",
+    "BarcodeNo": "8809488905591",
+    "ItemName": "BLACKPETER.S-S1",
+    "Comments": "Discontinued",
     "Year": "2017",
-    "Type": "Moooi",
-    "RetailPrice": "240.00",
-    "ImageUrl": "https://i.postimg.cc/B6R20bLw/DIVINITY-03-2-M-1.jpg"
+    "Type": "Sunglasses",
+    "RetailPrice": "249",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
   },
   {
-    "BarcodeNo": "8809488907342",
-    "ItemName": "INFINITY-01",
-    "Comments": "Active (Limited)",
+    "BarcodeNo": "8809488905607",
+    "ItemName": "BLACKPETER.S-C1",
+    "Comments": "Discontinued",
     "Year": "2017",
-    "Type": "Moooi",
-    "RetailPrice": "240.00",
-    "ImageUrl": "https://i.postimg.cc/mgdz4kKN/INFINITY-01-1.jpg"
+    "Type": "Sunglasses",
+    "RetailPrice": "249",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809488905621",
+    "ItemName": "INSCARLET.S-034",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "249",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809488905638",
+    "ItemName": "INSCARLET.S-BC3",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "249",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809488905645",
+    "ItemName": "INSCARLET.S-K3",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "249",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809488905669",
+    "ItemName": "SIGNOFTWO.S-S3GD",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "320",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809488905676",
+    "ItemName": "SIGNOFTWO.S-K3GD",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "320",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809488905706",
+    "ItemName": "NEWTONIC.S-01",
+    "Comments": "Not Allowed Sales",
+    "Year": "2017",
+    "Type": "Tilda",
+    "RetailPrice": "286",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809488905713",
+    "ItemName": "NEWTONIC.S-K3",
+    "Comments": "Not Allowed Sales",
+    "Year": "2017",
+    "Type": "Tilda",
+    "RetailPrice": "286",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809488905720",
+    "ItemName": "NEWTONIC.S-S1",
+    "Comments": "Not Allowed Sales",
+    "Year": "2017",
+    "Type": "Tilda",
+    "RetailPrice": "286",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809488905737",
+    "ItemName": "TRICKOFTHELIGHT.S-02(1M)",
+    "Comments": "Not Allowed Sales",
+    "Year": "2017",
+    "Type": "Tilda",
+    "RetailPrice": "286",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809488905744",
+    "ItemName": "TRICKOFTHELIGHT.S-P1(PM)",
+    "Comments": "Not Allowed Sales",
+    "Year": "2017",
+    "Type": "Tilda",
+    "RetailPrice": "286",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809488905751",
+    "ItemName": "TRICKOFTHELIGHT.S-B1(11M)",
+    "Comments": "Not Allowed Sales",
+    "Year": "2017",
+    "Type": "Tilda",
+    "RetailPrice": "286",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809488905782",
+    "ItemName": "ODDODD.S-02(3F)",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "320",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809488905799",
+    "ItemName": "US101-M01",
+    "Comments": "Not Allowed Sales",
+    "Year": "2017",
+    "Type": "Aimee Song",
+    "RetailPrice": "260",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809488905805",
+    "ItemName": "US101-02(1M)",
+    "Comments": "Not Allowed Sales",
+    "Year": "2017",
+    "Type": "Aimee Song",
+    "RetailPrice": "260",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809488905812",
+    "ItemName": "US101-04(12M)",
+    "Comments": "Not Allowed Sales",
+    "Year": "2017",
+    "Type": "Aimee Song",
+    "RetailPrice": "260",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809488905829",
+    "ItemName": "US101-B1(11M)",
+    "Comments": "Not Allowed Sales",
+    "Year": "2017",
+    "Type": "Aimee Song",
+    "RetailPrice": "260",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809488905843",
+    "ItemName": "PENGBON-S1(1M)",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "230",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809488905850",
+    "ItemName": "PENGBON-S4",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "230",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809488905867",
+    "ItemName": "FINN.S-01",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "215",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809488905874",
+    "ItemName": "FINN.S-K3",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "215",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809488905881",
+    "ItemName": "FINN.S-N2",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "215",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809488905898",
+    "ItemName": "LASTBOW.S-02(BR)",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "280",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809488905911",
+    "ItemName": "LASTBOW.S-03(PM)",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "280",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809488905935",
+    "ItemName": "NOIRCAT.S-01",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "215",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809488905942",
+    "ItemName": "NOIRCAT.S-01(OL)",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "215",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809488905959",
+    "ItemName": "NOIRCAT.S-N2",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "215",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809488905966",
+    "ItemName": "NOIRCAT.S-A1",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "215",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809488905973",
+    "ItemName": "US101.S-M01",
+    "Comments": "Not Allowed Sales",
+    "Year": "2017",
+    "Type": "Aimee Song",
+    "RetailPrice": "260",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809488905980",
+    "ItemName": "US101.S-02(1M)",
+    "Comments": "Not Allowed Sales",
+    "Year": "2017",
+    "Type": "Aimee Song",
+    "RetailPrice": "260",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809488905997",
+    "ItemName": "US101.S-04(12M)",
+    "Comments": "Not Allowed Sales",
+    "Year": "2017",
+    "Type": "Aimee Song",
+    "RetailPrice": "260",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809488906000",
+    "ItemName": "US101.S-B1(11M)",
+    "Comments": "Not Allowed Sales",
+    "Year": "2017",
+    "Type": "Aimee Song",
+    "RetailPrice": "260",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809488906017",
+    "ItemName": "RANNYRING.S-02(1M)",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "260",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809488906024",
+    "ItemName": "RANNYRING.S-032(2M)",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "260",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809488906055",
+    "ItemName": "TAZI-PC1",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "260",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809488906062",
+    "ItemName": "TAZI-W1",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "260",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809488906086",
+    "ItemName": "HEIG-01",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "230",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809488906093",
+    "ItemName": "HEIG-034",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "230",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809488906109",
+    "ItemName": "HEIG-RD1",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "230",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809488906116",
+    "ItemName": "HEIG-A1",
+    "Comments": "Discontinued",
+    "Year": "2017",
+    "Type": "Sunglasses",
+    "RetailPrice": "230",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809488907175",
+    "ItemName": "PCH-01",
+    "Comments": "Not Allowed Sales",
+    "Year": "2017",
+    "Type": "Aimee Song",
+    "RetailPrice": "260",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809488907182",
+    "ItemName": "PCH-S3(11M)",
+    "Comments": "Not Allowed Sales",
+    "Year": "2017",
+    "Type": "Aimee Song",
+    "RetailPrice": "260",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809488907199",
+    "ItemName": "PCH-RD1",
+    "Comments": "Not Allowed Sales",
+    "Year": "2017",
+    "Type": "Aimee Song",
+    "RetailPrice": "260",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
   },
   {
     "BarcodeNo": "8809488907359",
@@ -1067,71 +2435,8 @@
     "Comments": "Active (Limited)",
     "Year": "2017",
     "Type": "Moooi",
-    "RetailPrice": "240.00",
+    "RetailPrice": "240",
     "ImageUrl": "https://i.postimg.cc/SK3nX5Sn/INFINITY-02-11-M-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809488907366",
-    "ItemName": "INFINITY-03(2M)",
-    "Comments": "Active (Limited)",
-    "Year": "2017",
-    "Type": "Moooi",
-    "RetailPrice": "240.00",
-    "ImageUrl": "https://i.postimg.cc/vmc1ZMsR/INFINITY-03-2-M-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809488907373",
-    "ItemName": "SINCERITY-02",
-    "Comments": "Active (Limited)",
-    "Year": "2017",
-    "Type": "Moooi",
-    "RetailPrice": "320.00",
-    "ImageUrl": "https://i.postimg.cc/RFP46JQX/SINCERITY-02-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809488907380",
-    "ItemName": "SINCERITY-03",
-    "Comments": "Active (Limited)",
-    "Year": "2017",
-    "Type": "Moooi",
-    "RetailPrice": "320.00",
-    "ImageUrl": "https://i.postimg.cc/yd678y9D/SINCERITY-03-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809488907397",
-    "ItemName": "TRINITY-02",
-    "Comments": "Active (Limited)",
-    "Year": "2017",
-    "Type": "Moooi",
-    "RetailPrice": "320.00",
-    "ImageUrl": "https://i.postimg.cc/qB3pMq6X/TRINITY-02-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809488907403",
-    "ItemName": "TRINITY-03",
-    "Comments": "Active (Limited)",
-    "Year": "2017",
-    "Type": "Moooi",
-    "RetailPrice": "320.00",
-    "ImageUrl": "https://i.postimg.cc/65VwnP08/TRINITY-03-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809488907458",
-    "ItemName": "RANNYRING-M01",
-    "Comments": "Active",
-    "Year": "2018",
-    "Type": "Sunglasses",
-    "RetailPrice": "260.00",
-    "ImageUrl": "https://i.postimg.cc/nhsjHpxy/RANNYRING-M01-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809488907465",
-    "ItemName": "BLACKPETER-01",
-    "Comments": "Active",
-    "Year": "2018",
-    "Type": "Sunglasses",
-    "RetailPrice": "249.00",
-    "ImageUrl": "https://i.postimg.cc/rygfvCQD/BLACKPETER-01-1.jpg"
   },
   {
     "BarcodeNo": "8809488907489",
@@ -1139,7 +2444,7 @@
     "Comments": "Active",
     "Year": "2018",
     "Type": "Sunglasses",
-    "RetailPrice": "260.00",
+    "RetailPrice": "260",
     "ImageUrl": "https://i.postimg.cc/XvcPXMc8/MADCRUSH-01-1.jpg"
   },
   {
@@ -1148,7 +2453,7 @@
     "Comments": "Active (Low)",
     "Year": "2018",
     "Type": "Sunglasses",
-    "RetailPrice": "280.00",
+    "RetailPrice": "280",
     "ImageUrl": "https://i.postimg.cc/Wz9SgThG/BIGBULLY-02-1-M-1.jpg"
   },
   {
@@ -1157,7 +2462,7 @@
     "Comments": "Active",
     "Year": "2018",
     "Type": "Sunglasses",
-    "RetailPrice": "280.00",
+    "RetailPrice": "280",
     "ImageUrl": "https://i.postimg.cc/HnWBrVsW/BIGBULLY-032-2-M-1.jpg"
   },
   {
@@ -1166,17 +2471,8 @@
     "Comments": "Active (Limited)",
     "Year": "2018",
     "Type": "Sunglasses",
-    "RetailPrice": "290.00",
+    "RetailPrice": "290",
     "ImageUrl": "https://i.postimg.cc/HWSfQgGv/LOVEPUNCH-032-14-M-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809488907571",
-    "ItemName": "SALT-G1",
-    "Comments": "Active (Limited)",
-    "Year": "2018",
-    "Type": "Sunglasses",
-    "RetailPrice": "215.00",
-    "ImageUrl": "https://i.postimg.cc/vHKT2kn3/SALT-G1-1.jpg"
   },
   {
     "BarcodeNo": "8809488907588",
@@ -1184,17 +2480,8 @@
     "Comments": "Active (Limited)",
     "Year": "2018",
     "Type": "Sunglasses",
-    "RetailPrice": "260.00",
+    "RetailPrice": "260",
     "ImageUrl": "https://i.postimg.cc/d3DNWhMH/MADCRUSH-S3-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809488907595",
-    "ItemName": "RANNYRING-032(14M)",
-    "Comments": "Active (Limited)",
-    "Year": "2018",
-    "Type": "Sunglasses",
-    "RetailPrice": "260.00",
-    "ImageUrl": "https://i.postimg.cc/65b4JTkV/RANNYRING-032-14-M-1.jpg"
   },
   {
     "BarcodeNo": "8809488907601",
@@ -1202,17 +2489,8 @@
     "Comments": "Active (Low)",
     "Year": "2018",
     "Type": "Sunglasses",
-    "RetailPrice": "260.00",
+    "RetailPrice": "260",
     "ImageUrl": "https://i.postimg.cc/MZDj59tF/RANNYRING-02-G-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809488907632",
-    "ItemName": "BLACKPETER-S3(11M)",
-    "Comments": "Active",
-    "Year": "2018",
-    "Type": "Sunglasses",
-    "RetailPrice": "249.00",
-    "ImageUrl": "https://i.postimg.cc/vmRhWPHN/BLACKPETER-S3-11-M-1.jpg"
   },
   {
     "BarcodeNo": "8809488907656",
@@ -1220,7 +2498,7 @@
     "Comments": "Active (Limited)",
     "Year": "2018",
     "Type": "Sunglasses",
-    "RetailPrice": "249.00",
+    "RetailPrice": "249",
     "ImageUrl": "https://i.postimg.cc/wMcMGjhN/INSCARLET-K3-1.jpg"
   },
   {
@@ -1229,7 +2507,7 @@
     "Comments": "Active",
     "Year": "2018",
     "Type": "Sunglasses",
-    "RetailPrice": "320.00",
+    "RetailPrice": "320",
     "ImageUrl": "https://i.postimg.cc/qq0MyH9v/JUMPINGJACK-02-G-1.jpg"
   },
   {
@@ -1238,17 +2516,8 @@
     "Comments": "Active (Limited)",
     "Year": "2018",
     "Type": "Sunglasses",
-    "RetailPrice": "320.00",
+    "RetailPrice": "320",
     "ImageUrl": "https://i.postimg.cc/zBTGyG2Q/JUMPINGJACK-02-B-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809488907717",
-    "ItemName": "SEESAW-01",
-    "Comments": "Active (Limited)",
-    "Year": "2018",
-    "Type": "Sunglasses",
-    "RetailPrice": "249.00",
-    "ImageUrl": "https://i.postimg.cc/JnRzBLw4/SEESAW-01-1.jpg"
   },
   {
     "BarcodeNo": "8809488907731",
@@ -1256,7 +2525,7 @@
     "Comments": "Active",
     "Year": "2018",
     "Type": "Sunglasses",
-    "RetailPrice": "249.00",
+    "RetailPrice": "249",
     "ImageUrl": "https://i.postimg.cc/tCZmWnN7/MAMARS-VC3-1.jpg"
   },
   {
@@ -1265,7 +2534,7 @@
     "Comments": "Active (Limited)",
     "Year": "2018",
     "Type": "Sunglasses",
-    "RetailPrice": "249.00",
+    "RetailPrice": "249",
     "ImageUrl": "https://i.postimg.cc/x1LxFr72/MAMARS-WC1-1.jpg"
   },
   {
@@ -1274,7 +2543,7 @@
     "Comments": "Active",
     "Year": "2018",
     "Type": "Sunglasses",
-    "RetailPrice": "260.00",
+    "RetailPrice": "260",
     "ImageUrl": "https://i.postimg.cc/zBxPSnQH/MADCRUSH-B4-1.jpg"
   },
   {
@@ -1283,7 +2552,7 @@
     "Comments": "Active (Limited)",
     "Year": "2018",
     "Type": "Sunglasses",
-    "RetailPrice": "230.00",
+    "RetailPrice": "230",
     "ImageUrl": "https://i.postimg.cc/QtYWqtJd/DALLAKE-01-1.jpg"
   },
   {
@@ -1292,7 +2561,7 @@
     "Comments": "Active",
     "Year": "2018",
     "Type": "Sunglasses",
-    "RetailPrice": "250.00",
+    "RetailPrice": "250",
     "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
   },
   {
@@ -1301,7 +2570,7 @@
     "Comments": "Active (Limited)",
     "Year": "2018",
     "Type": "Sunglasses",
-    "RetailPrice": "250.00",
+    "RetailPrice": "250",
     "ImageUrl": "https://i.postimg.cc/qRqGrWmg/MIDNIGHTSUN-02-GR-1.jpg"
   },
   {
@@ -1310,71 +2579,8 @@
     "Comments": "Active",
     "Year": "2018",
     "Type": "Sunglasses",
-    "RetailPrice": "250.00",
+    "RetailPrice": "250",
     "ImageUrl": "https://i.postimg.cc/QVGgpCjW/MIDNIGHTSUN-02-Y-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809488907809",
-    "ItemName": "MIDNIGHTSUN-02(OR)",
-    "Comments": "Active",
-    "Year": "2018",
-    "Type": "Sunglasses",
-    "RetailPrice": "250.00",
-    "ImageUrl": "https://i.postimg.cc/rmHNwgbj/MIDNIGHTSUN-02-OR-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809488907816",
-    "ItemName": "KUJO-02(1M)",
-    "Comments": "Active (Limited)",
-    "Year": "2018",
-    "Type": "Sunglasses",
-    "RetailPrice": "260.00",
-    "ImageUrl": "https://i.postimg.cc/g2rcvDB8/KUJO-02-1-M-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809488907823",
-    "ItemName": "KUJO-02(OR)",
-    "Comments": "Active",
-    "Year": "2018",
-    "Type": "Sunglasses",
-    "RetailPrice": "260.00",
-    "ImageUrl": "https://i.postimg.cc/3RQKQHrF/KUJO-02-OR-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809488907830",
-    "ItemName": "KUJO-02(B)",
-    "Comments": "Active",
-    "Year": "2018",
-    "Type": "Sunglasses",
-    "RetailPrice": "260.00",
-    "ImageUrl": "https://i.postimg.cc/1zq9dzSz/KUJO-02-B-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809488907847",
-    "ItemName": "KUJO-02(Y)",
-    "Comments": "Active",
-    "Year": "2018",
-    "Type": "Sunglasses",
-    "RetailPrice": "260.00",
-    "ImageUrl": "https://i.postimg.cc/PxbdtFPs/KUJO-02-Y-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809488907854",
-    "ItemName": "SEESAW-BC4",
-    "Comments": "Active (Limited)",
-    "Year": "2018",
-    "Type": "Sunglasses",
-    "RetailPrice": "249.00",
-    "ImageUrl": "https://i.postimg.cc/sxNj8GMv/SEESAW-BC4-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809488907861",
-    "ItemName": "MERLYNN-01",
-    "Comments": "Active",
-    "Year": "2018",
-    "Type": "Sunglasses",
-    "RetailPrice": "260.00",
-    "ImageUrl": "https://i.postimg.cc/WbkXhLsk/MERLYNN-01-1.jpg"
   },
   {
     "BarcodeNo": "8809488907878",
@@ -1382,7 +2588,7 @@
     "Comments": "Active",
     "Year": "2018",
     "Type": "Sunglasses",
-    "RetailPrice": "260.00",
+    "RetailPrice": "260",
     "ImageUrl": "https://i.postimg.cc/PfcSXrnH/MERLYNN-G1-1.jpg"
   },
   {
@@ -1391,7 +2597,7 @@
     "Comments": "Active (Limited)",
     "Year": "2018",
     "Type": "Sunglasses",
-    "RetailPrice": "280.00",
+    "RetailPrice": "280",
     "ImageUrl": "https://i.postimg.cc/NfFvV07w/LOE-01-1.jpg"
   },
   {
@@ -1400,35 +2606,8 @@
     "Comments": "Active (Limited)",
     "Year": "2018",
     "Type": "Sunglasses",
-    "RetailPrice": "280.00",
+    "RetailPrice": "280",
     "ImageUrl": "https://i.postimg.cc/fygpZxjQ/LOE-VC3-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809488907908",
-    "ItemName": "LOE-S3(11M)",
-    "Comments": "Active (Limited)",
-    "Year": "2018",
-    "Type": "Sunglasses",
-    "RetailPrice": "280.00",
-    "ImageUrl": "https://i.postimg.cc/FRN2xFs8/LOE-S3-11-M-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809488907915",
-    "ItemName": "LOE-NC1",
-    "Comments": "Active (Limited)",
-    "Year": "2018",
-    "Type": "Sunglasses",
-    "RetailPrice": "280.00",
-    "ImageUrl": "https://i.postimg.cc/6QdkR4wC/LOE-NC1-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809488907922",
-    "ItemName": "OLLIE-01",
-    "Comments": "Active",
-    "Year": "2018",
-    "Type": "Sunglasses",
-    "RetailPrice": "260.00",
-    "ImageUrl": "https://i.postimg.cc/hPW38Pyr/OLLIE-01-1.jpg"
   },
   {
     "BarcodeNo": "8809488907939",
@@ -1436,7 +2615,7 @@
     "Comments": "Active",
     "Year": "2018",
     "Type": "Sunglasses",
-    "RetailPrice": "260.00",
+    "RetailPrice": "260",
     "ImageUrl": "https://i.postimg.cc/DyrpxkRK/OLLIE-G1-1.jpg"
   },
   {
@@ -1445,7 +2624,7 @@
     "Comments": "Active (Limited)",
     "Year": "2018",
     "Type": "Sunglasses",
-    "RetailPrice": "230.00",
+    "RetailPrice": "230",
     "ImageUrl": "https://i.postimg.cc/6Q92JRHQ/DALLAKE-GC2-1.jpg"
   },
   {
@@ -1454,35 +2633,8 @@
     "Comments": "Active (Limited)",
     "Year": "2018",
     "Type": "Sunglasses",
-    "RetailPrice": "230.00",
+    "RetailPrice": "230",
     "ImageUrl": "https://i.postimg.cc/XvQZVJhk/DALLAKE-S1.jpg"
-  },
-  {
-    "BarcodeNo": "8809488907960",
-    "ItemName": "DALLAKE-DR1",
-    "Comments": "Active (Limited)",
-    "Year": "2018",
-    "Type": "Sunglasses",
-    "RetailPrice": "230.00",
-    "ImageUrl": "https://i.postimg.cc/Mp0MFtm4/DALLAKE-DR1-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809488907977",
-    "ItemName": "PIXX-01",
-    "Comments": "Active (Limited)",
-    "Year": "2018",
-    "Type": "Sunglasses",
-    "RetailPrice": "249.00",
-    "ImageUrl": "https://i.postimg.cc/sDm9BVt1/PIXX-01-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809488907984",
-    "ItemName": "PIXX-G1",
-    "Comments": "Active (Limited)",
-    "Year": "2018",
-    "Type": "Sunglasses",
-    "RetailPrice": "249.00",
-    "ImageUrl": "https://i.postimg.cc/BnwTgmZ0/PIXX-G1-1.jpg"
   },
   {
     "BarcodeNo": "8809488907991",
@@ -1490,53 +2642,35 @@
     "Comments": "Active (Limited)",
     "Year": "2018",
     "Type": "Sunglasses",
-    "RetailPrice": "249.00",
+    "RetailPrice": "249",
     "ImageUrl": "https://i.postimg.cc/0yNGDTsn/PIXX-BC4-1.jpg"
   },
   {
-    "BarcodeNo": "8809488908004",
-    "ItemName": "PIXX-N3",
-    "Comments": "Active (Limited)",
+    "BarcodeNo": "8809488908059",
+    "ItemName": "LOE.S-01",
+    "Comments": "Discontinued",
     "Year": "2018",
     "Type": "Sunglasses",
-    "RetailPrice": "249.00",
-    "ImageUrl": "https://i.postimg.cc/vmJWRD62/PIXX-N3-1.jpg"
+    "RetailPrice": "280",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
   },
   {
-    "BarcodeNo": "8809488908011",
-    "ItemName": "COBALT-02(N)",
-    "Comments": "Active",
+    "BarcodeNo": "8809488908066",
+    "ItemName": "LOE.S-VC3",
+    "Comments": "Discontinued",
     "Year": "2018",
     "Type": "Sunglasses",
-    "RetailPrice": "260.00",
-    "ImageUrl": "https://i.postimg.cc/mkc1psmN/COBALT-02-N-1.jpg"
+    "RetailPrice": "280",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
   },
   {
-    "BarcodeNo": "8809488908028",
-    "ItemName": "COBALT-02(OR)",
-    "Comments": "Active",
+    "BarcodeNo": "8809488908073",
+    "ItemName": "LOE.S-NC1",
+    "Comments": "Discontinued",
     "Year": "2018",
     "Type": "Sunglasses",
-    "RetailPrice": "260.00",
-    "ImageUrl": "https://i.postimg.cc/wMSySGPK/COBALT-02-OR-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809488908035",
-    "ItemName": "COBALT-02(V)",
-    "Comments": "Active",
-    "Year": "2018",
-    "Type": "Sunglasses",
-    "RetailPrice": "260.00",
-    "ImageUrl": "https://i.postimg.cc/59GCYXtP/COBALT-02-V-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809488908042",
-    "ItemName": "COBALT-02(GR)",
-    "Comments": "Active (Limited)",
-    "Year": "2018",
-    "Type": "Sunglasses",
-    "RetailPrice": "260.00",
-    "ImageUrl": "https://i.postimg.cc/yd8Z999G/COBALT-02-GR-1.jpg"
+    "RetailPrice": "280",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
   },
   {
     "BarcodeNo": "8809488908080",
@@ -1544,26 +2678,8 @@
     "Comments": "Active (Limited)",
     "Year": "2018",
     "Type": "Sunglasses",
-    "RetailPrice": "230.00",
+    "RetailPrice": "230",
     "ImageUrl": "https://i.postimg.cc/4yw2PpFh/ABSENTE-GC2-GD-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809488908103",
-    "ItemName": "SEESAW-PC3",
-    "Comments": "Active (Limited)",
-    "Year": "2018",
-    "Type": "Sunglasses",
-    "RetailPrice": "249.00",
-    "ImageUrl": "https://i.postimg.cc/NFMGpkf3/SEESAW-PC3-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809488908110",
-    "ItemName": "SLOWSLOWLY-01",
-    "Comments": "Active (Limited)",
-    "Year": "2018",
-    "Type": "Sunglasses",
-    "RetailPrice": "249.00",
-    "ImageUrl": "https://i.postimg.cc/nrCZvV3Z/SLOWSLOWLY-01-1.jpg"
   },
   {
     "BarcodeNo": "8809488908127",
@@ -1571,17 +2687,8 @@
     "Comments": "Active (Limited)",
     "Year": "2018",
     "Type": "Sunglasses",
-    "RetailPrice": "249.00",
+    "RetailPrice": "249",
     "ImageUrl": "https://i.postimg.cc/jqFRRNjj/SLOWSLOWLY-G1-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809488908134",
-    "ItemName": "SLOWSLOWLY-BC4",
-    "Comments": "Active (Limited)",
-    "Year": "2018",
-    "Type": "Sunglasses",
-    "RetailPrice": "249.00",
-    "ImageUrl": "https://i.postimg.cc/j2mTvV1f/SLOWSLOWLY-BC4-1.jpg"
   },
   {
     "BarcodeNo": "8809488908141",
@@ -1589,7 +2696,7 @@
     "Comments": "Active",
     "Year": "2018",
     "Type": "Sunglasses",
-    "RetailPrice": "240.00",
+    "RetailPrice": "240",
     "ImageUrl": "https://i.postimg.cc/dDP3WTkw/DIM-01-1.jpg"
   },
   {
@@ -1598,7 +2705,7 @@
     "Comments": "Active",
     "Year": "2018",
     "Type": "Sunglasses",
-    "RetailPrice": "240.00",
+    "RetailPrice": "240",
     "ImageUrl": "https://i.postimg.cc/zD9kmtTX/DIM-BC4-1.jpg"
   },
   {
@@ -1607,7 +2714,7 @@
     "Comments": "Active",
     "Year": "2018",
     "Type": "Sunglasses",
-    "RetailPrice": "240.00",
+    "RetailPrice": "240",
     "ImageUrl": "https://i.postimg.cc/YSq6NJB8/DIM-KC2-1.jpg"
   },
   {
@@ -1616,7 +2723,7 @@
     "Comments": "Active",
     "Year": "2018",
     "Type": "Sunglasses",
-    "RetailPrice": "240.00",
+    "RetailPrice": "240",
     "ImageUrl": "https://i.postimg.cc/mZcS5fz5/DIM-G7-1.jpg"
   },
   {
@@ -1625,17 +2732,8 @@
     "Comments": "Active (Limited)",
     "Year": "2018",
     "Type": "Sunglasses",
-    "RetailPrice": "260.00",
+    "RetailPrice": "260",
     "ImageUrl": "https://i.postimg.cc/Z5PHx8BY/MERLYNN-S3-1-M-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809488908196",
-    "ItemName": "MERLYNN-VC3",
-    "Comments": "Active",
-    "Year": "2018",
-    "Type": "Sunglasses",
-    "RetailPrice": "260.00",
-    "ImageUrl": "https://i.postimg.cc/3wKBSkmX/MERLYNN-VC3-1.jpg"
   },
   {
     "BarcodeNo": "8809488908202",
@@ -1643,7 +2741,7 @@
     "Comments": "Active (Limited)",
     "Year": "2018",
     "Type": "Sunglasses",
-    "RetailPrice": "280.00",
+    "RetailPrice": "280",
     "ImageUrl": "https://i.postimg.cc/dtfcKK4Z/LOE-C1-1.jpg"
   },
   {
@@ -1652,17 +2750,8 @@
     "Comments": "Active",
     "Year": "2018",
     "Type": "Sunglasses",
-    "RetailPrice": "260.00",
+    "RetailPrice": "260",
     "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
-  },
-  {
-    "BarcodeNo": "8809488908226",
-    "ItemName": "OLLIE-PC3",
-    "Comments": "Active",
-    "Year": "2018",
-    "Type": "Sunglasses",
-    "RetailPrice": "260.00",
-    "ImageUrl": "https://i.postimg.cc/HkTZKvC8/OLLIE-PC3-1.jpg"
   },
   {
     "BarcodeNo": "8809488908233",
@@ -1670,35 +2759,8 @@
     "Comments": "Active (Limited)",
     "Year": "2018",
     "Type": "Sunglasses",
-    "RetailPrice": "265.00",
+    "RetailPrice": "265",
     "ImageUrl": "https://i.postimg.cc/26tgNQxR/TILLDAWN-01-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809488908240",
-    "ItemName": "TILLDAWN-G1",
-    "Comments": "Active (Limited)",
-    "Year": "2018",
-    "Type": "Sunglasses",
-    "RetailPrice": "265.00",
-    "ImageUrl": "https://i.postimg.cc/WtLKhsK5/TILLDAWN-G1-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809488908257",
-    "ItemName": "TILLDAWN-KC2",
-    "Comments": "Active (Limited)",
-    "Year": "2018",
-    "Type": "Sunglasses",
-    "RetailPrice": "265.00",
-    "ImageUrl": "https://i.postimg.cc/sfQgQKqW/TILLDAWN-KC2-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809488908264",
-    "ItemName": "TILLDAWN-B4",
-    "Comments": "Active (Limited)",
-    "Year": "2018",
-    "Type": "Sunglasses",
-    "RetailPrice": "265.00",
-    "ImageUrl": "https://i.postimg.cc/J0BvrsTy/TILLDAWN-B4-1.jpg"
   },
   {
     "BarcodeNo": "8809488908271",
@@ -1706,17 +2768,17 @@
     "Comments": "Active (Limited)",
     "Year": "2018",
     "Type": "Sunglasses",
-    "RetailPrice": "230.00",
+    "RetailPrice": "230",
     "ImageUrl": "https://i.postimg.cc/Hsy7QTcT/DALLAKE-C1-1.jpg"
   },
   {
-    "BarcodeNo": "8809488908288",
-    "ItemName": "CEECEE-01",
-    "Comments": "Active (Limited)",
+    "BarcodeNo": "8809488908295",
+    "ItemName": "CEECEE-NC1",
+    "Comments": "Discontinued",
     "Year": "2018",
     "Type": "Sunglasses",
-    "RetailPrice": "290.00",
-    "ImageUrl": "https://i.postimg.cc/T1SgTwK4/CEECEE-01-1.jpg"
+    "RetailPrice": "290",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
   },
   {
     "BarcodeNo": "8809488908301",
@@ -1724,71 +2786,8 @@
     "Comments": "Active (Limited)",
     "Year": "2018",
     "Type": "Sunglasses",
-    "RetailPrice": "290.00",
+    "RetailPrice": "290",
     "ImageUrl": "https://i.postimg.cc/tCKWfsQ1/CEECEE-S3-11-M-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809488908318",
-    "ItemName": "CEECEE-VC3",
-    "Comments": "Active (Limited)",
-    "Year": "2018",
-    "Type": "Sunglasses",
-    "RetailPrice": "290.00",
-    "ImageUrl": "https://i.postimg.cc/NjRmwQBd/CEECEE-VC3-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809488908332",
-    "ItemName": "AFIX-032(14M)",
-    "Comments": "Active (Limited)",
-    "Year": "2018",
-    "Type": "Sunglasses",
-    "RetailPrice": "310.00",
-    "ImageUrl": "https://i.postimg.cc/Z5WsPBPC/AFIX-032-14-M-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809488908349",
-    "ItemName": "AFIX-02(K)",
-    "Comments": "Active (Limited)",
-    "Year": "2018",
-    "Type": "Sunglasses",
-    "RetailPrice": "310.00",
-    "ImageUrl": "https://i.postimg.cc/kXXp4hBN/AFIX-02-K-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809488908356",
-    "ItemName": "AFIX-02",
-    "Comments": "Active (Limited)",
-    "Year": "2018",
-    "Type": "Sunglasses",
-    "RetailPrice": "310.00",
-    "ImageUrl": "https://i.postimg.cc/RVsbnQHk/AFIX-02-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809488908363",
-    "ItemName": "MERLYNN-WC1",
-    "Comments": "Active (Limited)",
-    "Year": "2018",
-    "Type": "Sunglasses",
-    "RetailPrice": "280.00",
-    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
-  },
-  {
-    "BarcodeNo": "8809488908370",
-    "ItemName": "MOOR-02(GR)",
-    "Comments": "Active (Limited)",
-    "Year": "2018",
-    "Type": "Sunglasses",
-    "RetailPrice": "280.00",
-    "ImageUrl": "https://i.postimg.cc/rpKJXvZs/MOOR-02-GR-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809488908387",
-    "ItemName": "MOOR-M01",
-    "Comments": "Active (Limited)",
-    "Year": "2018",
-    "Type": "Sunglasses",
-    "RetailPrice": "280.00",
-    "ImageUrl": "https://i.postimg.cc/d0p9q4gB/MOOR-M01-1.jpg"
   },
   {
     "BarcodeNo": "8809488908394",
@@ -1796,80 +2795,8 @@
     "Comments": "Active (Limited)",
     "Year": "2018",
     "Type": "Sunglasses",
-    "RetailPrice": "280.00",
+    "RetailPrice": "280",
     "ImageUrl": "https://i.postimg.cc/fyhjdkzS/MOOR-06-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809488908400",
-    "ItemName": "MOOR-02(OL)",
-    "Comments": "Active (Limited)",
-    "Year": "2018",
-    "Type": "Sunglasses",
-    "RetailPrice": "280.00",
-    "ImageUrl": "https://i.postimg.cc/Fs4DdCzC/MOOR-02-OL-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809488908417",
-    "ItemName": "POXI-02(1M)",
-    "Comments": "Active",
-    "Year": "2018",
-    "Type": "Sunglasses",
-    "RetailPrice": "320.00",
-    "ImageUrl": "https://i.postimg.cc/QCtwFKwX/POXI-02-1-M.png"
-  },
-  {
-    "BarcodeNo": "8809488908424",
-    "ItemName": "POXI-02",
-    "Comments": "Active",
-    "Year": "2018",
-    "Type": "Sunglasses",
-    "RetailPrice": "320.00",
-    "ImageUrl": "https://i.postimg.cc/J4rjCfG8/POXI-02-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809488908431",
-    "ItemName": "SEESAW-G3",
-    "Comments": "Active (Limited)",
-    "Year": "2018",
-    "Type": "Sunglasses",
-    "RetailPrice": "269.00",
-    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
-  },
-  {
-    "BarcodeNo": "8809488908448",
-    "ItemName": "SEESAW-WC1",
-    "Comments": "Active (Limited)",
-    "Year": "2018",
-    "Type": "Sunglasses",
-    "RetailPrice": "269.00",
-    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
-  },
-  {
-    "BarcodeNo": "8809488908455",
-    "ItemName": "TAZI-C1",
-    "Comments": "Active (Limited)",
-    "Year": "2018",
-    "Type": "Sunglasses",
-    "RetailPrice": "260.00",
-    "ImageUrl": "https://i.postimg.cc/1zJLJhnz/TAZI-C1-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809488908462",
-    "ItemName": "TAZI-C1(G)",
-    "Comments": "Active (Limited)",
-    "Year": "2018",
-    "Type": "Sunglasses",
-    "RetailPrice": "280.00",
-    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
-  },
-  {
-    "BarcodeNo": "8809488908479",
-    "ItemName": "VECTOR-02(OL)",
-    "Comments": "Active",
-    "Year": "2018",
-    "Type": "Sunglasses",
-    "RetailPrice": "230.00",
-    "ImageUrl": "https://i.postimg.cc/jjmBG6cV/VECTOR-02-OL-1.jpg"
   },
   {
     "BarcodeNo": "8809488908486",
@@ -1877,26 +2804,8 @@
     "Comments": "Active",
     "Year": "2018",
     "Type": "Sunglasses",
-    "RetailPrice": "230.00",
+    "RetailPrice": "230",
     "ImageUrl": "https://i.postimg.cc/QCkP923s/VECTOR-03-RED-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809488908493",
-    "ItemName": "VECTOR-02(R)",
-    "Comments": "Active",
-    "Year": "2018",
-    "Type": "Sunglasses",
-    "RetailPrice": "250.00",
-    "ImageUrl": "https://i.postimg.cc/ydR2BJpD/VECTOR-02-R-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809488908509",
-    "ItemName": "VECTOR-02",
-    "Comments": "Active (Limited)",
-    "Year": "2018",
-    "Type": "Sunglasses",
-    "RetailPrice": "250.00",
-    "ImageUrl": "https://i.postimg.cc/x8Shd0Bt/VECTOR-02-1.jpg"
   },
   {
     "BarcodeNo": "8809488908516",
@@ -1904,7 +2813,7 @@
     "Comments": "Active (Limited)",
     "Year": "2018",
     "Type": "Sunglasses",
-    "RetailPrice": "280.00",
+    "RetailPrice": "280",
     "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
   },
   {
@@ -1913,26 +2822,8 @@
     "Comments": "Active",
     "Year": "2018",
     "Type": "Sunglasses",
-    "RetailPrice": "260.00",
+    "RetailPrice": "260",
     "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
-  },
-  {
-    "BarcodeNo": "8809488908677",
-    "ItemName": "MOOR-02(B)",
-    "Comments": "Active (Limited)",
-    "Year": "2018",
-    "Type": "Sunglasses",
-    "RetailPrice": "280.00",
-    "ImageUrl": "https://i.postimg.cc/529gpHww/MOOR-02-B-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809488908691",
-    "ItemName": "BLACKPETER-RD1",
-    "Comments": "Active",
-    "Year": "2018",
-    "Type": "Sunglasses",
-    "RetailPrice": "249.00",
-    "ImageUrl": "https://i.postimg.cc/dVZnZMvC/BLACKPETER-RD1-1.jpg"
   },
   {
     "BarcodeNo": "8809488908752",
@@ -1940,16 +2831,7 @@
     "Comments": "Active (Limited)",
     "Year": "2018",
     "Type": "Sunglasses",
-    "RetailPrice": "280.00",
-    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
-  },
-  {
-    "BarcodeNo": "8809488908769",
-    "ItemName": "PAPAS-01",
-    "Comments": "Active",
-    "Year": "2018",
-    "Type": "Sunglasses",
-    "RetailPrice": "249.00",
+    "RetailPrice": "280",
     "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
   },
   {
@@ -1958,7 +2840,7 @@
     "Comments": "Active",
     "Year": "2018",
     "Type": "Sunglasses",
-    "RetailPrice": "249.00",
+    "RetailPrice": "249",
     "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
   },
   {
@@ -1967,7 +2849,7 @@
     "Comments": "Active",
     "Year": "2018",
     "Type": "Sunglasses",
-    "RetailPrice": "249.00",
+    "RetailPrice": "249",
     "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
   },
   {
@@ -1976,7 +2858,34 @@
     "Comments": "Active (Limited)",
     "Year": "2018",
     "Type": "Sunglasses",
-    "RetailPrice": "249.00",
+    "RetailPrice": "249",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809488908806",
+    "ItemName": "SOMETHINGREAL-02",
+    "Comments": "Not Allowed Sales",
+    "Year": "2018",
+    "Type": "Sunglasses",
+    "RetailPrice": "420",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809488908813",
+    "ItemName": "SOMETHINGREAL-02(R)",
+    "Comments": "Not Allowed Sales",
+    "Year": "2018",
+    "Type": "Sunglasses",
+    "RetailPrice": "420",
+    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
+  },
+  {
+    "BarcodeNo": "8809488908820",
+    "ItemName": "SOMETHINGREAL-02(Y)",
+    "Comments": "Not Allowed Sales",
+    "Year": "2018",
+    "Type": "Sunglasses",
+    "RetailPrice": "420",
     "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
   },
   {
@@ -1985,53 +2894,8 @@
     "Comments": "Active (Limited)",
     "Year": "2018",
     "Type": "Sunglasses",
-    "RetailPrice": "280.00",
+    "RetailPrice": "280",
     "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
-  },
-  {
-    "BarcodeNo": "8809488908844",
-    "ItemName": "Z-1-02(G)",
-    "Comments": "Active (Limited)",
-    "Year": "2018",
-    "Type": "Sunglasses",
-    "RetailPrice": "280.00",
-    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
-  },
-  {
-    "BarcodeNo": "8809488908851",
-    "ItemName": "Z-1-02(B)",
-    "Comments": "Active (Limited)",
-    "Year": "2018",
-    "Type": "Sunglasses",
-    "RetailPrice": "280.00",
-    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
-  },
-  {
-    "BarcodeNo": "8809488908875",
-    "ItemName": "K-1-02",
-    "Comments": "Active (Limited)",
-    "Year": "2018",
-    "Type": "Sunglasses",
-    "RetailPrice": "290.00",
-    "ImageUrl": "https://i.postimg.cc/63hNs2mB/K-1-02-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809488908882",
-    "ItemName": "K-1-07(N)",
-    "Comments": "Active (Limited)",
-    "Year": "2018",
-    "Type": "Sunglasses",
-    "RetailPrice": "290.00",
-    "ImageUrl": "https://i.postimg.cc/TwxXHqQk/K-1-07-N-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809488908899",
-    "ItemName": "K-1-02(G)",
-    "Comments": "Active (Limited)",
-    "Year": "2018",
-    "Type": "Sunglasses",
-    "RetailPrice": "290.00",
-    "ImageUrl": "https://i.postimg.cc/FKS9K8cP/K-1-02-G.png"
   },
   {
     "BarcodeNo": "8809488908905",
@@ -2039,7 +2903,7 @@
     "Comments": "Active (Limited)",
     "Year": "2018",
     "Type": "Sunglasses",
-    "RetailPrice": "290.00",
+    "RetailPrice": "290",
     "ImageUrl": "https://i.postimg.cc/ryQLQ44J/K-1-06-1.jpg"
   },
   {
@@ -2048,7 +2912,7 @@
     "Comments": "Active",
     "Year": "2018",
     "Type": "Alexander Wang",
-    "RetailPrice": "295.00",
+    "RetailPrice": "295",
     "ImageUrl": "https://i.postimg.cc/hj2V3Mcg/C-E-O-027.jpg"
   },
   {
@@ -2057,62 +2921,8 @@
     "Comments": "Active",
     "Year": "2018",
     "Type": "Alexander Wang",
-    "RetailPrice": "295.00",
+    "RetailPrice": "295",
     "ImageUrl": "https://i.postimg.cc/htmbP9bb/C-E-O-015.jpg"
-  },
-  {
-    "BarcodeNo": "8809488908936",
-    "ItemName": "CEO-Y2",
-    "Comments": "Active",
-    "Year": "2018",
-    "Type": "Alexander Wang",
-    "RetailPrice": "295.00",
-    "ImageUrl": "https://i.postimg.cc/B6SxgRWM/C-E-O-021.jpg"
-  },
-  {
-    "BarcodeNo": "8809488908943",
-    "ItemName": "CEO-WC1",
-    "Comments": "Active-STORE Only",
-    "Year": "2018",
-    "Type": "Alexander Wang",
-    "RetailPrice": "295.00",
-    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
-  },
-  {
-    "BarcodeNo": "8809488908950",
-    "ItemName": "CEO-YC3",
-    "Comments": "Active-STORE Only",
-    "Year": "2018",
-    "Type": "Alexander Wang",
-    "RetailPrice": "295.00",
-    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
-  },
-  {
-    "BarcodeNo": "8809488908974",
-    "ItemName": "TICKTOCK-032(14M)",
-    "Comments": "Active (Limited)",
-    "Year": "2018",
-    "Type": "Sunglasses",
-    "RetailPrice": "280.00",
-    "ImageUrl": "https://i.postimg.cc/CMj9Qqft/TICKTOCK-032-14-M-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809488908981",
-    "ItemName": "TICKTOCK-02(1M)",
-    "Comments": "Active (Limited)",
-    "Year": "2018",
-    "Type": "Sunglasses",
-    "RetailPrice": "280.00",
-    "ImageUrl": "https://i.postimg.cc/3wdPSfgC/TICKTOCK-02-1-M-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809488908998",
-    "ItemName": "TICKTOCK-02(K)",
-    "Comments": "Active (Limited)",
-    "Year": "2018",
-    "Type": "Sunglasses",
-    "RetailPrice": "280.00",
-    "ImageUrl": "https://i.postimg.cc/J4QVGkrJ/TICKTOCK-02-K-1.jpg"
   },
   {
     "BarcodeNo": "8809488909094",
@@ -2120,17 +2930,8 @@
     "Comments": "Active",
     "Year": "2018",
     "Type": "Opticals",
-    "RetailPrice": "249.00",
+    "RetailPrice": "249",
     "ImageUrl": "https://i.postimg.cc/KjS3ztRT/ALIO-01.png"
-  },
-  {
-    "BarcodeNo": "8809488909100",
-    "ItemName": "ALIO-GD1",
-    "Comments": "Active",
-    "Year": "2018",
-    "Type": "Opticals",
-    "RetailPrice": "249.00",
-    "ImageUrl": "https://i.postimg.cc/3rmDqfcF/ALIO-GD1.png"
   },
   {
     "BarcodeNo": "8809488909117",
@@ -2138,26 +2939,8 @@
     "Comments": "Active",
     "Year": "2018",
     "Type": "Opticals",
-    "RetailPrice": "249.00",
+    "RetailPrice": "249",
     "ImageUrl": "https://i.postimg.cc/G2ssdXhr/ALIO-C1.png"
-  },
-  {
-    "BarcodeNo": "8809488909124",
-    "ItemName": "COZMO-01",
-    "Comments": "Active",
-    "Year": "2018",
-    "Type": "Opticals",
-    "RetailPrice": "230.00",
-    "ImageUrl": "https://i.postimg.cc/K8RG6RYh/COZMO-01.png"
-  },
-  {
-    "BarcodeNo": "8809488909131",
-    "ItemName": "COZMO-C1",
-    "Comments": "Active",
-    "Year": "2018",
-    "Type": "Opticals",
-    "RetailPrice": "230.00",
-    "ImageUrl": "https://i.postimg.cc/3xV8YYy4/COZMO-C1.png"
   },
   {
     "BarcodeNo": "8809488909148",
@@ -2165,53 +2948,8 @@
     "Comments": "Active",
     "Year": "2018",
     "Type": "Sunglasses",
-    "RetailPrice": "280.00",
+    "RetailPrice": "280",
     "ImageUrl": "https://i.postimg.cc/pTgxJb4F/SOLARIS-02-3-F-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809488909155",
-    "ItemName": "SOLARIS-032(14M)",
-    "Comments": "Active (Limited)",
-    "Year": "2018",
-    "Type": "Sunglasses",
-    "RetailPrice": "280.00",
-    "ImageUrl": "https://i.postimg.cc/tgv97VzD/SOLARIS-032-14-M-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809488909162",
-    "ItemName": "SOLARIS-02",
-    "Comments": "Active",
-    "Year": "2018",
-    "Type": "Sunglasses",
-    "RetailPrice": "280.00",
-    "ImageUrl": "https://i.postimg.cc/yN8VVT0k/SOLARIS-02-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809488909193",
-    "ItemName": "VOYAGERM-M01",
-    "Comments": "Active",
-    "Year": "2018",
-    "Type": "Sunglasses",
-    "RetailPrice": "320.00",
-    "ImageUrl": "https://i.postimg.cc/Znc7K685/VOYAGERM-M01-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809488909209",
-    "ItemName": "VOYAGERM-02",
-    "Comments": "Active",
-    "Year": "2018",
-    "Type": "Sunglasses",
-    "RetailPrice": "320.00",
-    "ImageUrl": "https://i.postimg.cc/cCZkSF8z/VOYAGERM-02-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809488909216",
-    "ItemName": "VOYAGERM-02(G)",
-    "Comments": "Active",
-    "Year": "2018",
-    "Type": "Sunglasses",
-    "RetailPrice": "320.00",
-    "ImageUrl": "https://i.postimg.cc/y6XrPCMC/VOYAGERM-02-G-1.jpg"
   },
   {
     "BarcodeNo": "8809488909223",
@@ -2219,26 +2957,8 @@
     "Comments": "Active",
     "Year": "2018",
     "Type": "Opticals",
-    "RetailPrice": "230.00",
+    "RetailPrice": "230",
     "ImageUrl": "https://i.postimg.cc/d049zJjz/LETO-02.jpg"
-  },
-  {
-    "BarcodeNo": "8809488909230",
-    "ItemName": "LETO-A02",
-    "Comments": "Active",
-    "Year": "2018",
-    "Type": "Opticals",
-    "RetailPrice": "230.00",
-    "ImageUrl": "https://i.postimg.cc/wMscyLYp/LETO-A02.jpg"
-  },
-  {
-    "BarcodeNo": "8809488909247",
-    "ItemName": "LETO-031",
-    "Comments": "Active",
-    "Year": "2018",
-    "Type": "Opticals",
-    "RetailPrice": "230.00",
-    "ImageUrl": "https://i.postimg.cc/rw2g4npY/LETO-031.jpg"
   },
   {
     "BarcodeNo": "8809488909254",
@@ -2246,17 +2966,8 @@
     "Comments": "Active",
     "Year": "2018",
     "Type": "Opticals",
-    "RetailPrice": "230.00",
+    "RetailPrice": "230",
     "ImageUrl": "https://i.postimg.cc/NfKfXDnT/PLANETBLU-02-027.jpg"
-  },
-  {
-    "BarcodeNo": "8809488909261",
-    "ItemName": "PLANETBLU-A02",
-    "Comments": "Active",
-    "Year": "2018",
-    "Type": "Opticals",
-    "RetailPrice": "230.00",
-    "ImageUrl": "https://i.postimg.cc/SxM0L8sR/PLANETBLU-A02.png"
   },
   {
     "BarcodeNo": "8809488909278",
@@ -2264,44 +2975,8 @@
     "Comments": "Active",
     "Year": "2018",
     "Type": "Opticals",
-    "RetailPrice": "230.00",
+    "RetailPrice": "230",
     "ImageUrl": "https://i.postimg.cc/DzP2hMWV/PLANETBLU-031-033.jpg"
-  },
-  {
-    "BarcodeNo": "8809488909285",
-    "ItemName": "SONICWALKER-02",
-    "Comments": "Active",
-    "Year": "2018",
-    "Type": "Opticals",
-    "RetailPrice": "249.00",
-    "ImageUrl": "https://i.postimg.cc/j2F9PdYy/SONICWALKER-02.png"
-  },
-  {
-    "BarcodeNo": "8809488909292",
-    "ItemName": "SONICWALKER-031",
-    "Comments": "Active",
-    "Year": "2018",
-    "Type": "Opticals",
-    "RetailPrice": "249.00",
-    "ImageUrl": "https://i.postimg.cc/YqTZS93H/SONICWALKER-031.png"
-  },
-  {
-    "BarcodeNo": "8809488909322",
-    "ItemName": "TAZI-GR1(P+F)",
-    "Comments": "Active-ECOMM Only",
-    "Year": "2018",
-    "Type": "P+F",
-    "RetailPrice": "281.00",
-    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
-  },
-  {
-    "BarcodeNo": "8809488909339",
-    "ItemName": "TAZI-R1(P+F)",
-    "Comments": "Active-ECOMM Only",
-    "Year": "2018",
-    "Type": "P+F",
-    "RetailPrice": "281.00",
-    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
   },
   {
     "BarcodeNo": "8809488909346",
@@ -2309,7 +2984,7 @@
     "Comments": "Active (Limited)",
     "Year": "2018",
     "Type": "Sunglasses",
-    "RetailPrice": "249.00",
+    "RetailPrice": "249",
     "ImageUrl": "https://i.postimg.cc/T3Cb9y48/AMIADAM-02-Y-1.jpg"
   },
   {
@@ -2318,26 +2993,8 @@
     "Comments": "Active (Limited)",
     "Year": "2018",
     "Type": "Sunglasses",
-    "RetailPrice": "249.00",
+    "RetailPrice": "249",
     "ImageUrl": "https://i.postimg.cc/sXrnRTkh/AMIADAM-HP1-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809488909360",
-    "ItemName": "AMIADAM-M01",
-    "Comments": "Active (Limited)",
-    "Year": "2018",
-    "Type": "Sunglasses",
-    "RetailPrice": "249.00",
-    "ImageUrl": "https://i.postimg.cc/k58jZ0pC/AMIADAM-M01-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809488909391",
-    "ItemName": "COBALT-03",
-    "Comments": "Active (Limited)",
-    "Year": "2018",
-    "Type": "Sunglasses",
-    "RetailPrice": "260.00",
-    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
   },
   {
     "BarcodeNo": "8809488909438",
@@ -2345,7 +3002,7 @@
     "Comments": "Active",
     "Year": "2018",
     "Type": "Opticals",
-    "RetailPrice": "249.00",
+    "RetailPrice": "249",
     "ImageUrl": "https://i.postimg.cc/9fCx4qwv/YOKO-02.png"
   },
   {
@@ -2354,7 +3011,7 @@
     "Comments": "Active",
     "Year": "2018",
     "Type": "Opticals",
-    "RetailPrice": "249.00",
+    "RetailPrice": "249",
     "ImageUrl": "https://i.postimg.cc/wjhfTkMX/YOKO-031.png"
   },
   {
@@ -2363,17 +3020,8 @@
     "Comments": "Active",
     "Year": "2018",
     "Type": "Opticals",
-    "RetailPrice": "230.00",
+    "RetailPrice": "230",
     "ImageUrl": "https://i.postimg.cc/8z8XSYpk/YETI-01.png"
-  },
-  {
-    "BarcodeNo": "8809488909469",
-    "ItemName": "YETI-B1",
-    "Comments": "Active",
-    "Year": "2018",
-    "Type": "Opticals",
-    "RetailPrice": "230.00",
-    "ImageUrl": "https://i.postimg.cc/5tgs8Nwj/YETI-B1.png"
   },
   {
     "BarcodeNo": "8809488909476",
@@ -2381,7 +3029,7 @@
     "Comments": "Active",
     "Year": "2018",
     "Type": "Opticals",
-    "RetailPrice": "230.00",
+    "RetailPrice": "230",
     "ImageUrl": "https://i.postimg.cc/vBm3hFzh/YETI-C1.png"
   },
   {
@@ -2390,34 +3038,7 @@
     "Comments": "Active",
     "Year": "2018",
     "Type": "Opticals",
-    "RetailPrice": "250.00",
-    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
-  },
-  {
-    "BarcodeNo": "8809488909490",
-    "ItemName": "MIG-B1",
-    "Comments": "Active",
-    "Year": "2018",
-    "Type": "Opticals",
-    "RetailPrice": "250.00",
-    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
-  },
-  {
-    "BarcodeNo": "8809488909506",
-    "ItemName": "MIG-C1",
-    "Comments": "Active",
-    "Year": "2018",
-    "Type": "Opticals",
-    "RetailPrice": "250.00",
-    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
-  },
-  {
-    "BarcodeNo": "8809488909513",
-    "ItemName": "COCO-01",
-    "Comments": "Active",
-    "Year": "2018",
-    "Type": "Opticals",
-    "RetailPrice": "230.00",
+    "RetailPrice": "250",
     "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
   },
   {
@@ -2426,7 +3047,7 @@
     "Comments": "Active",
     "Year": "2018",
     "Type": "Opticals",
-    "RetailPrice": "230.00",
+    "RetailPrice": "230",
     "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
   },
   {
@@ -2435,26 +3056,8 @@
     "Comments": "Active",
     "Year": "2018",
     "Type": "Opticals",
-    "RetailPrice": "230.00",
+    "RetailPrice": "230",
     "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
-  },
-  {
-    "BarcodeNo": "8809488909544",
-    "ItemName": "INSCARLET-01",
-    "Comments": "Active (Limited)",
-    "Year": "2018",
-    "Type": "Sunglasses",
-    "RetailPrice": "249.00",
-    "ImageUrl": "https://i.postimg.cc/cCN6hn8Z/INSCARLET-01-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809488909551",
-    "ItemName": "MAMARS-01",
-    "Comments": "Active",
-    "Year": "2019",
-    "Type": "Sunglasses",
-    "RetailPrice": "249.00",
-    "ImageUrl": "https://i.postimg.cc/wMPfn9g6/MAMARS-01-1.jpg"
   },
   {
     "BarcodeNo": "8809488909568",
@@ -2462,62 +3065,8 @@
     "Comments": "Active",
     "Year": "2019",
     "Type": "Sunglasses",
-    "RetailPrice": "249.00",
+    "RetailPrice": "249",
     "ImageUrl": "https://i.postimg.cc/NGPzKkTW/MAMARS-G1-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809488909575",
-    "ItemName": "MAMARS-WC1",
-    "Comments": "Active (Limited)",
-    "Year": "2019",
-    "Type": "Sunglasses",
-    "RetailPrice": "249.00",
-    "ImageUrl": "https://i.postimg.cc/x1LxFr72/MAMARS-WC1-1.jpg"
-  },
-  {
-    "BarcodeNo": "8809488909599",
-    "ItemName": "LETO-D01",
-    "Comments": "Active",
-    "Year": "2018",
-    "Type": "Opticals",
-    "RetailPrice": "230.00",
-    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
-  },
-  {
-    "BarcodeNo": "8809488909605",
-    "ItemName": "PLANETBLU-D01",
-    "Comments": "Active",
-    "Year": "2018",
-    "Type": "Opticals",
-    "RetailPrice": "230.00",
-    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
-  },
-  {
-    "BarcodeNo": "8809488909612",
-    "ItemName": "SONICWALKER-D01",
-    "Comments": "Active",
-    "Year": "2018",
-    "Type": "Opticals",
-    "RetailPrice": "249.00",
-    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
-  },
-  {
-    "BarcodeNo": "8809488909629",
-    "ItemName": "YOKO-D01",
-    "Comments": "Active",
-    "Year": "2018",
-    "Type": "Opticals",
-    "RetailPrice": "249.00",
-    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
-  },
-  {
-    "BarcodeNo": "8809488909643",
-    "ItemName": "GMXZ COAT",
-    "Comments": "Active-ECOMM Only",
-    "Year": "2018",
-    "Type": "Apparel",
-    "RetailPrice": "320.00",
-    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
   },
   {
     "BarcodeNo": "8809488909674",
@@ -2525,7 +3074,7 @@
     "Comments": "Active",
     "Year": "2018",
     "Type": "Opticals",
-    "RetailPrice": "250.00",
+    "RetailPrice": "250",
     "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
   },
   {
@@ -2534,106 +3083,7 @@
     "Comments": "Active",
     "Year": "2018",
     "Type": "Opticals",
-    "RetailPrice": "230.00",
+    "RetailPrice": "230",
     "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
-  },
-  {
-    "BarcodeNo": "8809488909698",
-    "ItemName": "YETI-D01",
-    "Comments": "Active",
-    "Year": "2018",
-    "Type": "Opticals",
-    "RetailPrice": "230.00",
-    "ImageUrl": "https://i.postimg.cc/C1Gr2tB4/Appetite-Learning-SIC-Food-20162-news-large.jpg"
-  },
-  {
-    "BarcodeNo": "8809488909704",
-    "ItemName": "BAGUETTE-02(N)",
-    "Comments": "Active",
-    "Year": "2019",
-    "Type": "Sunglasses",
-    "RetailPrice": "250.00",
-    "ImageUrl": "https://i.postimg.cc/X7wtbKCd/BAGUETTE02-N1.jpg"
-  },
-  {
-    "BarcodeNo": "8809488909711",
-    "ItemName": "BAGUETTE-02(V)",
-    "Comments": "Active",
-    "Year": "2019",
-    "Type": "Sunglasses",
-    "RetailPrice": "250.00",
-    "ImageUrl": "https://i.postimg.cc/Jzxgy1Kh/BAGUETTE02-V1.jpg"
-  },
-  {
-    "BarcodeNo": "8809488909728",
-    "ItemName": "BAGUETTE-M01",
-    "Comments": "Active",
-    "Year": "2019",
-    "Type": "Sunglasses",
-    "RetailPrice": "250.00",
-    "ImageUrl": "https://i.postimg.cc/1tkYx4Rv/BAGUETTEM011re.jpg"
-  },
-  {
-    "BarcodeNo": "8809488909735",
-    "ItemName": "CHAMELEON-M01",
-    "Comments": "Active",
-    "Year": "2019",
-    "Type": "Sunglasses",
-    "RetailPrice": "280.00",
-    "ImageUrl": "https://i.postimg.cc/wBbGV0C8/CHAMELEONM011.jpg"
-  },
-  {
-    "BarcodeNo": "8809488909742",
-    "ItemName": "CHAMELEON-02(BR)",
-    "Comments": "Active",
-    "Year": "2019",
-    "Type": "Sunglasses",
-    "RetailPrice": "280.00",
-    "ImageUrl": "https://i.postimg.cc/nzjwwqxs/CHAMELEON02-BR1.jpg"
-  },
-  {
-    "BarcodeNo": "8809488909759",
-    "ItemName": "CHAMELEON-M02",
-    "Comments": "Active",
-    "Year": "2019",
-    "Type": "Sunglasses",
-    "RetailPrice": "280.00",
-    "ImageUrl": "https://i.postimg.cc/VvXZz1dm/CHAMELEONM021.jpg"
-  },
-  {
-    "BarcodeNo": "8809488909841",
-    "ItemName": "EASTMOON-01",
-    "Comments": "Active",
-    "Year": "2019",
-    "Type": "Sunglasses",
-    "RetailPrice": "259.00",
-    "ImageUrl": "https://i.postimg.cc/rwM3Fd1b/EASTMOON011.jpg"
-  },
-  {
-    "BarcodeNo": "8809488909858",
-    "ItemName": "SIXBEARS-01",
-    "Comments": "Active",
-    "Year": "2019",
-    "Type": "Sunglasses",
-    "RetailPrice": "259.00",
-    "ImageUrl": "https://i.postimg.cc/wTdb0tGv/SIXBEARS011.jpg"
-  },
-  {
-    "BarcodeNo": "8809488909865",
-    "ItemName": "JACKHI-01",
-    "Comments": "Active",
-    "Year": "2019",
-    "Type": "Sunglasses",
-    "RetailPrice": "249.00",
-    "ImageUrl": "https://i.postimg.cc/ZYNM8Pj2/JACKHI011.jpg"
-  },
-  {
-    "BarcodeNo": "8809488909872",
-    "ItemName": "JACKBYE-01",
-    "Comments": "Active",
-    "Year": "2019",
-    "Type": "Sunglasses",
-    "RetailPrice": "249.00",
-    "ImageUrl": "https://i.postimg.cc/DzzNLtYP/JACKBYE011.jpg"
   }
 ]

@@ -1,0 +1,14 @@
+{
+  "root": "build/",
+  "clean_urls": false,
+  "https_only": true,
+  "headers": {
+    "/**": {
+      "Strict-Transport-Security": "max-age=7776000",
+      "Cache-Control": "no-store, no-cache"
+    }
+  },
+  "routes": {
+    "/**": "index.html"
+  }
+}
